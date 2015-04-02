@@ -1,0 +1,30 @@
+---
+title: Steak tartar
+tags: carne
+date: 2013-07-22
+slug: steak-tartar
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+- 200 gr por persona de carne de ternera o buey (lomo alto). Que el carnicero solo la pase una vez por la picadora o picarla a cuchillo muy pequeña
+- 1 yema de huevo por persona 
+- cebolla muy picadita (al gusto)
+- ajo picado (muy poquito o incluso nada, al gusto) 
+- alcaparras picaditas (unas cuatro por persona, también al gusto) 
+- un chorro de salsa perrins 
+- un chorro de tabasco
+- 2 cucharadas soperas de mostaza de dijon 
+- sal 
+- pimienta negra molida 
+- un chorrito de aceite de oliva virgen (muy poco)
+ 
+ 
+Hacerlo es tan facil como ir mezclando los ingredientes sin macharrar demasiado la carne para que no quede "papilla". Se va probando y ajustamos las proporciones de los distintos ingredientes adecuandolos a nuestro gusto, pero ¡ojo con el picante!
+
+Servir con algún pan crujiente y fino tipo tostas.
+
+
+![{{ page.title }}](/images/posts/steak-tartar.jpg "{{ page.title }}"){: .markdown-image}

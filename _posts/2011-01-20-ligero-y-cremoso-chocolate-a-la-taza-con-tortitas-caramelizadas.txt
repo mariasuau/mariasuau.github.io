@@ -1,0 +1,29 @@
+---
+title: Ligero y cremoso chocolate a la taza con tortitas caramelizadas
+tags: chocolate, dulce
+date: 2011-01-20
+slug: ligero-y-cremoso-chocolate-a-la-taza-con-tortitas-caramelizadas
+author: María Suau
+layout: post
+location: Málaga, España
+type: desayuno
+---
+
+
+**Chocolate a la taza**
+
+- Una taza grande de leche desnatada (300 ml).
+- Dos onzas de chocolate nestlé postres.
+- Una cucharada de agar-agar.
+- Para aromatizar el chocolate elegir al gusto: canela, miel, licor de naranja, amaretto…. 
+
+En una olla pequeña ponemos la leche y el chocolate y lo derretimos a fuego medio. Añadimos la cucharada (de las postre) de agar-agar y mezclamos bien. Añadimos el sabor que más nos guste, yo por ejemplo puse un poco de vodka-caramelo, pero a mi marido le vuelve loco la canela. Dar un hervor rápido y retirar. Dejar enfriar un poco, pero no demasiado, porque el agar-agar tiene la peculiaridad que al enfriarse deja una consistencia similar a un flan. Este chocolate es relativamente light porque el agar tiene muchas menos calorías que las harinas que se usan para espesar los chocolates a la taza y además se usa poca cantidad, además usando leche desnatada lo único con lo que pecamos es con un par de trozos de chocolate negro. Está muy rico de verdad, además si nos sobra tendremos un flan de chocolate estupendo para el día siguiente.
+
+
+**Tortitas caramelizadas**
+
+Para estas tortitas solo hay que seguir la [receta](http://pantumaca.com/tortitas) que ya publiqué en un post anterior, pero para darle ese toque caramelizado solo tenemos que espolvorearlas con azúcar y con un soplete de cocina quemar el azúcar quedando una deliciosa capa de caramelo.
+
+No son nada light pero están buenísimas.
+
+![{{ page.title }}](/images/posts/chocolate-a-la-taza-cremoso.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,31 @@
+---
+title: Esparragos con vinagreta
+tags: espárragos, verduras, sano
+date: 2010-12-11
+slug: esparragos-con-vinagreta
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+
+- Un manojo de espárragos verdes.
+- Un huevo duro.
+- na cebolleta tierna pequeña.
+- Un trozo de pimiento verde.
+- Sal, aceite, vinagre.
+
+
+Limpiar los espárragos, cortando desde la parte más distal hacia la punta, hasta que el cuchillo corte limpiamente sin mucha resistencia, este es el punto donde el espárrago está tierno.
+
+Cocemos las puntas de los espárragos en la olla a presión 5 minutos, con una pizca de sal.
+
+En la batidora ponemos el huevo, el pimiento y la cebolla. Trituramos suavemente sin dejarlo muy fino, no debe quedar papilla. Añadir una pizca de sal, un buen chorro de aceite y el vinagre (1 vinagre=2 aceite). Mezclar bien o batir un momento.
+
+Servir los espárragos escurridos, calientes o fríos, cubiertos con la vinagreta.
+
+Este plato me trae muy buenos recuerdos. La receta me la enseñó mi padre, que además de muchas otras cosas era un gran cocinero.
+
+![{{ page.title }}](/images/posts/esparragos.jpg "{{ page.title }}"){: .markdown-image}

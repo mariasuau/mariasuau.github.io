@@ -1,0 +1,32 @@
+---
+title: Salsa de tomates asados
+tags: salsa, horno
+date: 2011-01-25
+slug: salsa-de-tomates-asados
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- Tomates maduros.
+- Dos dientes de ajo.
+- Sal.
+- Aceite de oliva.
+- Azúcar.
+- Albahaca.
+- Orégano.
+
+
+En una fuente amplia para horno ponemos una capa de sal y azúcar, proporción 1:1.
+
+Lavamos los tomates, les quitamos el extremo superior duro que no se como se llama y los cortamos por la mitad. Los ponemos sobre la bandeja con el corte hacia abajo y la piel hacia arriba. Horneamos a 250º hasta que el tomate esté blando y la piel tostada.
+
+Sacamos del horno y con los dedos o una pinza para no quemarnos retiramos la piel que debe salir sin problemas. Ahora con una  espátula machacamos los tomates, quitamos el exceso de liquido pero no todo. Añadimos el ajo cortado en finas láminas, el orégano, la albahaca y un chorro de aceite de oliva.
+
+Volvemos a hornear hasta que el ajo se dore y los jugos del tomate se reduzcan.
+
+Pues ya podemos usar esta maravillosa salsa para la pasta, el arroz, sobre unas tostas con butifarra, o lo que nos de la imaginación.
+
+![{{ page.title }}](/images/posts/salsa-de-tomates-asados.jpg "{{ page.title }}"){: .markdown-image}

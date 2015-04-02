@@ -1,0 +1,22 @@
+---
+title: Pá amb tomaquet, pantumaca, pan con tomate
+tags: pan, tomates
+date: 2010-03-20
+slug: pa-amb-tomaquet-pantumaca-pan-con-tomate
+author: María Suau
+layout: post
+location: Málaga, Spain
+type: aperitivo
+---
+
+
+- Pan (al gusto)
+- Tomates maduros
+- Aceite oliva
+- Sal
+
+Untar los tomates cortados por la mitad sobre el pan, añadir un buen chorro de aceite de oliva y una pizca de sal.
+
+Acompañar de un buen embutido ibérico.
+
+![{{ page.title }}](/images/posts/pantumaca.jpg "{{ page.title }}"){: .markdown-image}

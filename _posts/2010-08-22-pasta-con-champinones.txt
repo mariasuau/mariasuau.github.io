@@ -1,0 +1,32 @@
+---
+title: Pasta con champiñones
+tags: pasta, setas, champinones
+date: 2010-08-22
+slug: pasta-con-champinones
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+
+- Pasta corta.
+- Champiñones.
+- Cebolla.
+- Tomates secos en aceite.
+- Aceitunas negras.
+- Sal, aceite y oregano.
+
+
+Cocemos la pasta corta según las indicaciones del fabricante.
+
+Trocear la cebolla y dorarla en una sartén con aceite y sal.
+
+Limpiar y trocear los champiñones. Añadirlos a la cebolla dorada, salar un poco y saltear hasta que suelten todo el liquido y se doren. Añadir entonces 3-4 tomates secos en aceite troceados y un puñado de aceitunas negas troceadas. Saltear todo junto con un buen chorro de aceite e incorporar la pasta.
+
+Servir aderezando con un poco de orégano.
+
+Que viva la dieta mediterranea, no puede haber nada mejor y más sano.
+
+![{{ page.title }}](/images/posts/pasta-con-champignones.jpg "{{ page.title }}"){: .markdown-image}

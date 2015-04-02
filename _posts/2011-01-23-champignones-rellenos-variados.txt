@@ -1,0 +1,23 @@
+---
+title: Champiñones rellenos variados
+tags: champiñones
+date: 2011-01-23
+slug: champignones-rellenos-variados
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- Champiñones grandes.
+- Bacon.
+- Chorizo.
+- Foie.
+- Queso rallado.
+- Sal.
+
+
+Quitamos los pies a los champiñones y los limpiamos bien. Los ponemos sobre una fuente de horno con rejilla, con el hueco mirando hacia arriba y les hacemos un agujero en el fondo para que elimine el agua que sueltan al asarse. Añadimos sal. Rellenamos cada champiñón con un trocito de chorizo o con unas tiritas de bacon o con un poco de foie. Cubrimos con queso. Horneamos hasta que los champiñones estén hechos y se gratine el queso. Servir inmediatamente porque se enfrían rápido.
+
+![{{ page.title }}](/images/posts/champinones-rellenos.jpg "{{ page.title }}"){: .markdown-image}

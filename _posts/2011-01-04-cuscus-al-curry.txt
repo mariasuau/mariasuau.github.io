@@ -1,0 +1,29 @@
+---
+title: Cuscús al curry
+tags: cuscús, curry
+date: 2011-01-04
+slug: cuscus-al-curry
+author: María Suau
+layout: post
+location: Málaga, España
+type: arroz
+---
+
+
+- Cuscús.
+- Una cebolla.
+- Espinaca congelada en hoja.
+- Una zanahoria.
+- Una pechuga de pollo.
+- Una cucharada de curry.
+- Un puñado de anacardos.
+- Aceite y  sal.
+
+
+Pelamos y troceamos en daditos pequeños la zanahoria y la cebolla. Salteamos en una sartén con un chorrito de aceite de oliva y una pizca de sal. Después añadimos la espinaca, la descongelamos previamente unos minutos en el microondas. Salteamos de nuevo añadiendo otro chorrito de aceite y otra pizca de sal. Troceamos y salamos el pollo y lo salteamos también. Por último añadimos los anacardos.
+
+Por otro lado ponemos a hervir 2-3 dedos de agua con una cucharadita de sal en una olla pequeña. Cuando hierva apagamos el fuego y retiramos. Añadimos el cuscús (doble agua que cuscús, pero puede variar, mirar las indicaciones del fabricante).  Dejamos que el cuscús se hidrate y absorba todo el agua.
+
+Añadir el couscous a las verduras y saltear, añadimos ahora el curry y mezclamos bien.
+
+![{{ page.title }}](/images/posts/cuscus.jpg "{{ page.title }}"){: .markdown-image}

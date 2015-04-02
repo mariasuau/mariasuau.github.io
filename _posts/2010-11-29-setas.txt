@@ -1,0 +1,21 @@
+---
+title: Setas
+tags: setas
+date: 2010-11-29
+slug: setas
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- Lactarius deliciosus: Niscalo, robellón.
+- Macrolepiota procera: Parasol.
+- Lepista nuda: Pie azul.
+- Tricholoma terreum: Fredolic.
+
+![{{ page.title }}](/images/posts/setas-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/setas-2.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/setas-3.jpg "{{ page.title }}"){: .markdown-image}
+

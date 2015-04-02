@@ -1,0 +1,34 @@
+---
+title: Tortitas
+tags: tortitas, desayuno
+date: 2010-05-30
+slug: tortitas
+author: María Suau
+layout: post
+location: Málaga, España
+type: desayuno
+---
+
+
+- 2 huevos.
+- 1 taza y media de harina (taza pequeña).
+- 1 taza de leche (taza pequeña).
+- 2 cucharadas soperas de azúcar.
+- Una cucharada de postre de levadura.
+- 3 cucharadas soperas de aceite de oliva o 60 gr mantequilla derretida.
+
+
+Poner todos los ingredientes en un vaso de minipimer y batir hasta mezclar bien.
+
+En una sartén antiadherente poner un poco de aceite o mantequilla y cuando esté bien caliente (fuego a tope) verter parte de la masa hasta cubrir el fondo de la sartén, bajar el fuego a media potencia (inducción al 6.5). Dejar que la tortita cuaje y burbujee, darle la vuelta y dorar por el otro lado. Repetir la maniobra hasta que se nos acabe la masa.
+
+Servir con chocolate, mermelada o jarabe de arce.
+
+Yo personalmente uso aceite porque no suelo tener mantequilla, pero la receta original lleva mantequilla, al estilo americano.
+
+También se pueden hacer en miniatura poniendo poca cantidad de masa cada vez, así quedan muy monas y divertidas.
+
+Bueno esto engorda mucho, así que comerlo con moderación.
+
+![{{ page.title }}](/images/posts/tortitas-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/tortitas-2.jpg "{{ page.title }}"){: .markdown-image}

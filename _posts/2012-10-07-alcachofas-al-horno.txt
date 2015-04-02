@@ -1,0 +1,22 @@
+---
+title: Alcachofas al horno
+tags: alcachofas, horno
+date: 2012-10-07
+slug: alcachofas-al-horno
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- 2 alcachofas.
+- Un chorrito de aceite de oliva.
+- Pimentón dulce y picante.
+- Sal y pimienta.
+
+Calentamos el horno arriba y abajo a 300ºC. Cogemos un buen trozo de papel de aluminio. Le quitamos el rabo a las alcachofas y unas pocas hojas externas. Cogemos la alcachofa por la base y aplastamos las hojas contra la encimera para abrir un poco la flor. Ahora las colocamos sobre el papel de aluminio y echamos sal, pimienta y pimentón al gusto. Por último un chorrito de aceite de oliva. Cerramos el papel formando un paquete hermético. Horneamos 1 hora.
+
+Disfrutar mordisqueando hoja a hoja hasta llegar al jugoso corazón. Eso sí, es para estómagos a prueba de bomba, ya sabéis a que me refiero, o bien para el día que no tengáis compañía o estéis al aire libre.
+
+![{{ page.title }}](/images/posts/alcahofas-al-horno.jpg "{{ page.title }}"){: .markdown-image}

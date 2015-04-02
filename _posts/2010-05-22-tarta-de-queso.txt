@@ -1,0 +1,45 @@
+---
+title: Tarta de queso
+tags: postre, tarta, queso
+date: 2010-05-22
+slug: tarta-de-queso
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+
+- 150 gr galleta tipo maría.
+- 3 cucharadas soperas de mantequilla sin sal.
+- 4 huevos.
+- 250 gr azucar.
+- 1 brick pequeño de nata para montar.
+- zumo de 1/2 limon.
+- 3 cucharadas soperas de harina.
+- Una pizca de sal.
+- 800 gr queso philadelphia.
+- Mermelada frambuesa (recomiendo la vieja fábrica)
+- Precalentar el horno a 200º. Preparar un molde redondo, poniendo papel vegetal en el fondo y untando mantequilla los bordes.
+
+Se tritura la galleta hasta que quede fina, se le incorpora la mantequilla algo derretida y se mezcla bien hasta que toda la galleta quede mojada de mantequilla.
+
+Poner la galleta en el fondo del molde distribuirla uniformemente y aplastarla con la mano hasta que forme una capa compacta.
+
+Hornear unos 10 min a 200º o hasta que se dore la galleta.
+
+En la batidora metemos los huevos, el azucar, la nata, harina, limon, queso y sal y batimos bien hasta que la mezcla quede homogenea.
+
+Verter la mezcla en el molde, sobre la galleta y hornear 15 minutos a 220º y luego 35 minutos más a 100º.
+
+Debe quedar cuajado y un poco dorado.
+
+Sacar del horno y dejar enfriar. Si se han pegado los bordes se despegan facilmente con un cuchillo liso. 
+
+Poner mermelada de frambuesa por encima y enfriar en la nevera.
+
+Deliciosa, un éxito seguro.
+
+![{{ page.title }}](/images/posts/tarta-de-queso-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/tarta-de-queso-2.jpg "{{ page.title }}"){: .markdown-image}

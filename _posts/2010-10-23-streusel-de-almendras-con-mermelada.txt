@@ -1,0 +1,52 @@
+---
+title: Streusel de almendras con mermelada
+tags: pastel, alemana
+date: 2010-10-23
+slug: streusel-de-almendras-con-mermelada
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+**Base**
+
+- 360 gr de harina de fuerza.
+- 1 sobre de levadura de panadero, seca.
+- Una pizca de sal.
+- 50 gr de mantequilla (sin sal).
+- 140 ml de leche.
+- 1 huevo.
+- Un bote de mermelada de frambuesa.
+
+**Streusel**
+
+- 70 gr de almendras molidas.
+- 180 gr de harina.
+- 130 gr de mantequilla sin sal.
+- 90 gr de azúcar.
+- Un poco de canela en polvo.
+- Una cucharada sopera de esencia de vainilla.
+
+
+Precalentar el horno a 200º.
+
+Primero vamos a preparar la base del streusel: En un cuenco grande mezclamos la harina de fuerza, la levadura y una pizca de sal. Añadimos la leche templada, el huevo y la mantequilla y vamos mezclando hasta formar una masa homogénea, debemos amasar bien hasta que quede una bola de masa bastante elastica. Dejamos reposar la masa tapada con una servilleta de papel durante 20 minutos. 
+
+Mientras esperamos vamos a preparar el streusel, que es la capa superior que queda dorada y crujiente y lo que le da la gracia a este postre: Mezclamos las almendras bien picadas, la harina, la mantequilla (blanda pero no derretida), el azúcar, la canela (al gusto) y la vainilla. Con los dedos mezclamos hasta que se quede una masa suelta y homogenea, se puede migar con facilidad.
+
+Pasados los 20 minutos extendemos la masa de la base formando un rectángulo grande, que se adapte a un molde de horno, lo cubrimos con mermelada y por encima de esta vamos migando el streusel hasta cubrir toda la superficie.
+
+Dejamos reposar otros 20 minutos.
+
+Horneamos 25 minutos con el horno arriba y abajo.
+
+Enfriar y espolvorear azúcar glas para terminar.
+
+Está muy bueno. Es un dulce muy típico de Alemania. Perfecto para hacer una comida temática o “alemanada”, junto con salchichas, spätzle, kartoffelsalat y todo lo que se os ocurra….
+
+![{{ page.title }}](/images/posts/streusel-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/streusel-2.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/streusel-3.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/streusel-4.jpg "{{ page.title }}"){: .markdown-image}

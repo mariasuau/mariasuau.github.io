@@ -1,0 +1,26 @@
+---
+title: Flor de salmón ahumado
+tags: salmón, pescado, arroz, sano
+date: 2011-01-08
+slug: flor-de-salmon-ahumado
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+- 100 gr de salmón ahumado.
+- Una taza de arroz blanco cocido.
+- Un aguacate maduro.
+- Un tomate de ensalada pequeño.
+- Un puñadito de piñones (no muchos que están muy caros).
+- Un puñado de maíz cocido.
+- Sal y aceite de oliva.
+
+
+Pelamos el aguacate, lo machacamos y mezclamos con el arroz. Pelar y trocear el tomate en trozos muy pequeños, el salmón también lo troceamos pequeño. Mezclamos todo y aliñamos. Con un molde podemos darle la forma que queramos, si no tenemos pues a comerlo a pelo que saber sabe igual.
+
+También queda estupendamente en forma de rollitos, poniendo el salmón extendido por fuera y el arroz con el aguacate, el tomate, el maíz y los piñones de relleno.
+
+![{{ page.title }}](/images/posts/flor-de-salmon.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,21 @@
+---
+title: Boniato asado
+tags: horno
+date: 2010-10-23
+slug: boniato-asado
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+
+- Un boniato grande.
+
+
+Hornear a 250º hasta que el boniato esté blando.
+
+Dejar enfriar y a comer, después unas castañas y unos madroños.
+
+![{{ page.title }}](/images/posts/boniato-asado.jpg "{{ page.title }}"){: .markdown-image}

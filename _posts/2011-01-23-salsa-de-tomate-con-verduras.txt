@@ -1,0 +1,26 @@
+---
+title: Salsa de tomate con verduras
+tags: salsa, verduras, sano
+date: 2011-01-23
+slug: salsa-de-tomate-con-verduras
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- Una berenjena.
+- Un calabacín.
+- Dos cebollas grandes.
+- Una zanahoria grande.
+- Una lata grande de tomate entero pelado.
+- 200 ml de vino blanco.
+- Orégano.
+- Sal, azúcar, y aceite de oliva.
+
+
+elar y trocear todas las verduras, ponerlas en una olla grande todas excepto el tomate. Añadimos sal y un buen chorro de aceite de oliva. Salteamos bien hasta que estén doraditas. Ahora añadimos el tomate, un buen pellizco de azúcar y el vino. Dejamos a fuego lento-medio unos 25 minutos. Trituramos, añadimos el orégano y ya está.
+
+Perfecta para tomar más verdura con un plato de pasta. Un sabor diferente al clásico tomate frito, más ligero y además cunde mucho.
+![{{ page.title }}](/images/posts/salsa-de-tomate-con-verduras.jpg "{{ page.title }}"){: .markdown-image}

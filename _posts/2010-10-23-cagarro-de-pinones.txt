@@ -1,0 +1,45 @@
+---
+title: Cagarro de piñones
+tags: pastel, chocolate, dulce
+date: 2010-10-23
+slug: cagarro-de-pinones
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+- 200 gr harina.
+- 1 sobre de levadura.
+- 125 gr azúcar.
+- 4 huevos.
+- 1 tableta chocolate nestlé postres.
+- Un buen puñado de piñones.
+- 2 cucharadas soperas de mantequilla.
+
+Precalentar el horno a 250º.
+
+1. Separamos las yemas de las claras de 3 huevos. 
+
+1. Batir 3 yemas y un huevo entero con el azúcar. Usaremos las varillas de la batidora.
+
+1. Mezclamos la harina y l a levadura con la mezcla anterior y mezclamos bien. Probablemente las varillas ahora no nos van bien porque la masa se espesa demasiado, usaremos una espátula de madera o una cuchara y mezclamos haciendo movimientos envolventes.
+
+1. Derretir el chocolate con las dos cucharadas de mantequilla a fuego muy suave y sin parar de remover para evitar que se pegue.
+
+1. Añadimos los piñones al chocolate.
+
+1. Mezclamos el chocolate con la mezcla anterior.
+
+1. Batir las 3 claras a punto de nieve y mezclar con lo anterior realizando movimientos muy envolventes con cuidado para que no se bajen.
+
+1. Untamos mantequilla en un molde de plumbcake y enharinamos el molde. Añadimos la mezcla, decoramos con unos cuantos piñones y horneamos a 150º 45 min. Si pinchamos el pastel[^fn1] tiene que salir algo manchado por el centro.
+
+La receta original es con 200gr de nueces, pero como no tenía usé piñones.
+
+Felicidades Rocío, disfrutamos mucho la tarta en tu honor.
+
+[^fn1]: Mi querido tío Kay le puso el nombre de “cagarro” dado su colorcillo y forma alargada, era un cachondo.
+
+![{{ page.title }}](/images/posts/cagarro-de-pinones.jpg "{{ page.title }}"){: .markdown-image}

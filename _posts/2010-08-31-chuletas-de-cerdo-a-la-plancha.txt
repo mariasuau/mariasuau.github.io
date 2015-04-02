@@ -1,0 +1,21 @@
+---
+title: Chuletas de cerdo a la plancha
+tags: chuletas, cerdo, carne
+date: 2010-08-31
+slug: chuletas-de-cerdo-a-la-plancha
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- Chuletas de cerdo.
+- Ají (chile seco molido o pimentón si no tenéis ají)
+- Ajo en polvo.
+- Orégano.
+- Aceite.
+
+Preparamos un adobo con aceite, ají, orégano y ajo en polvo. Enbadurnamos las chuletas con la mezcla y hacemos a la plancha. Servir con la guarnición que más os guste.
+
+![{{ page.title }}](/images/posts/chuletas.jpg "{{ page.title }}"){: .markdown-image}

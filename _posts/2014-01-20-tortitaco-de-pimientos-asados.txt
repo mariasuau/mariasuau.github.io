@@ -1,0 +1,31 @@
+---
+title: Tortitaco de pimientos asados
+tags: tortillas, verduras, sano, dieta
+date: 2014-01-20
+slug: tortitaco-de-pimientos-asados
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- 1 huevo por persona.
+- Un pimiento.
+- Un manojo de cebolletas.
+- Sal y aceite de oliva.
+
+Precalentamos el horno a 200º. 
+Limpiamos el pimiento y lo envolvemos en papel de aluminio con un poco de sal y un chorrito de aceite de oliva.
+Pelamos las cebolletas y las envolvemos en papel de aliminio con sal y aceite igual que el pimiento.
+Metemos los dos paquetes en el horno unos 50 minutos.
+Dejamos enfriar.
+Pelar el pimiento y despepitarlo. Cortar a tiras.
+Ahora hacemos una tortilla de un huevo que quede fina y redonda.
+La ponemos en el plato y ponemos un poco de pimiento y un par de cebolletas en una mitad, añadimos un chorritín de aceite de oliva y tapamos con la otra mitad de la tortilla.
+
+Ahí lo llevas manita :-*
+
+
+
+![{{ page.title }}](/images/posts/tortitaco-de-pimientos-asados.jpg "{{ page.title }}"){: .markdown-image}

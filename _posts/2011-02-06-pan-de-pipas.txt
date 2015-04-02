@@ -1,0 +1,58 @@
+---
+title: Pan de pipas
+tags: pan, horno
+date: 2011-02-06
+slug: pan-de-pipas
+author: María Suau
+layout: post
+location: Málaga, España
+type: desayuno
+---
+
+
+- 200 gr de harina de fuerza.
+- 50 gr de harina de mijo.
+- 200 gr de pipas de girasol.
+- 50 gr de miel.
+- 3/4 cucharadita de sal fina.
+- 1 dado de levadura fresca, de 25 gr la que venden en el Mercadona.
+- 100 ml de agua tibia.
+- Huevo batido.
+
+**Fermento**
+
+- 100 gr harina de fuerza.
+- Un dado de levadura fresca de 25 gr del Mercadona.
+- 100 ml de agua tibia.
+
+
+Primero preparamos el fermento: ponemos en un bol la harina, hacemos un hueco en el centro y desmenuzamos la levadura, añadimos sobre la levadura el agua tibia y con los dedos deshacemos la lavadura. Mezclamos con la harina hasta que quede una pasta muy pegajosa. Dejamos reposar una hora. Debe aumentar de tamaño y quedar con burbujas por dentro.
+
+Una vez tengamos el fermento listo, calentamos la miel para que se vuelva líquida y la incorporamos al fermento. También añadiremos los 100 cc de agua tibia y el otro dado de levadura bien desecho. Mezclamos.
+
+En otro bol ponemos los 200 gr de harina de fuerza, la de mijo, las pipas y la sal.
+
+Ahora mezclamos todo, lo seco y lo líquido, amasamos bien con las manos hasta que quede una masa uniforme y un pelín pegajosa, pero no demasiado, debe ser manejable. Si queda demasiado pegajosa añadir un poco de harina de fuerza.
+
+Limpiarnos los restos de masa de las manos añadiéndolos a la masa. Tapar con un trapo y dejar reposar 10 minutos.
+
+Poner sobre la mesa un chorrito de aceite y amasar la masa unos segundos.
+
+Dejar reposar otros 10 minutos tapado.
+
+Amasar de nuevo unos segundos dándole forma redonda y dejar la masa tapada reposar una hora.
+
+Ahora coge el trapo que hemos usado para tapar la masa y échale harina, colócalo sobre un cuenco con la parte enharinada hacia arriba por supuesto, dejando que los bordes del trapo cuelguen por fuera del cuenco. Amasa dando forma de bola y con la parte superior de la bola de masa hacia abajo la colocamos con cuidado sobre el trapo. Tapamos con los bordes del trapo y dejamos que la masa repose hasta que suba de tamaño. Por lo menos media hora más.
+
+Precalentamos el horno a 210º.
+
+Poner una hoja de papel parafinado sobre la bandeja del horno, colocar la masa con cuidado, quedando la parte más redondeada hacia arriba. Hacemos dos cortes poco profundos en la superficie en forma de + y pintamos con el huevo batido.
+
+Hornear a 210º 30 minutos y luego a 190º 15 minutos más. El tiempo de horneado puede variar un poco en función del horno de cada uno. Vigilarlo, a mi me llevó casi 10 minutos menos de lo que debería y se me doró mucho.
+
+Sacar y dejar enfriar. No lo tapéis caliente porque se ablanda.
+
+Da trabajillo pero merece la pena, la verdad es que queda una hogaza bastante hermosa pero no dura nada en la mesa.
+
+![{{ page.title }}](/images/posts/pan-de-pipas-y-miel-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/pan-de-pipas-y-miel-2.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,38 @@
+---
+title: Torrijas
+tags: dulce, pan
+date: 2011-04-29
+slug: torrijas
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+- Pan tipo molde de rebanada gruesa, que esté un poco seco, abierto de varios días, pero se puede usar fresco, yo no tenía y usé Semilla de Oro recién comprado y quedaron bastante bien.
+- Leche.
+- 3 cucharadas soperas de azúcar.
+- 1 rama de canela.
+- 5 huevos.
+- Aceite para freír.
+- Miel.
+
+
+En una olla ponemos medio litro de leche a hervir con canela en rama y  el azúcar. Dejamos enfriar. A mi personalmente no me gusta la canela así que solo uso leche y azúcar, pero la receta lleva canela.
+
+Ahora ponemos en una sartén aceite para freír y calentamos a fuego fuerte.
+
+Preparamos dos platos hondos, uno con leche (le hemos quitado la canela en rama) y otro con 2 huevos batidos.
+
+Cuando el aceite esté caliente cogemos una rebanada de pan y la pasamos por la leche, cuidado si el pan es fresco que se la bebe toda y se nos puede romper la rebanada, que se moje pero que no se nos rompa. Después de la leche va al huevo y de ahí diréctamente al aceite. Preparamos seguido tantas torrijas como nos quepan en la sartén. Deben quedar doradas por las dos caras y retiramos sobre papel de cocina para absorber el exceso de aceite.
+
+Repetimos la operación tantas veces como queramos, batiremos más huevos si nos quedamos sin, igualmente tendremos que ir añadiendo más leche. Así que tenerla a mano.
+
+Es importante que el fuego se mantenga caliente, así que lo dejaremos a fuego fuerte todo el rato.
+
+Una vez que tengamos todas nuestras torrijas bien frititas y doraditas, vamos a coger una taza añadimos miel, más o menos 5-6 cucharadas soperas y un minichorrito de agua, lo calentamos en el microondas 40 segundos y removemos, debe quedar la miel líquida. Ahora pintamos las torrijas por las dos caras con la miel. Y si nos sobra un poco de miel la esparcimos por encima de todas las torrijas para que queden aún más pringosas y deliciosas.
+
+Bueno ahí tenéis un dulce típico de Semana Santa. A engordar que son dos días.
+
+![{{ page.title }}](/images/posts/torrijas.jpg "{{ page.title }}"){: .markdown-image}

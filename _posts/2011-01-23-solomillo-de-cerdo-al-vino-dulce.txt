@@ -1,0 +1,28 @@
+---
+title: Solomillo de cerdo al vino dulce
+tags: carne, cerdo
+date: 2011-01-23
+slug: solomillo-de-cerdo-al-vino-dulce
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+
+Ingredientes:
+
+- Un solomillo de cerdo.
+- 10 ciruelas-pasas sin hueso.
+- 12 nueces en trozos grandes pero no enteras.
+- 250 ml de vino dulce.
+- Una cucharada de harina.
+- Sal, pimienta y aceite de oliva.
+- Cortamos el solomillo en filetes de un centímetro y medio, salpimentamos.
+
+En una olla ponemos un buen chorro de aceite de oliva y doramos la carne por los dos lados. Ahora añadimos las ciruelas y las nueces y salteamos un minuto. Añadimos el vino y una cucharadita de harina para ligar la salsa. Mezclamos bien. Dejamos a fuego bajo-medio durante 25-30 minutos, hasta que la carne esté tierna.
+
+Y de postre una copita de vino dulce de Málaga, que tengo unos amigos que hacen un vino extraordinario.
+
+![{{ page.title }}](/images/posts/solomillo-de-cerdo-con-vino-dulce.jpg "{{ page.title }}"){: .markdown-image}

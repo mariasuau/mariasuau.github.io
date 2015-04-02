@@ -1,0 +1,24 @@
+---
+title: Sopa de cebolla
+tags: sopa, cebolla, horno, francesa
+date: 2012-01-27
+slug: sopa-de-cebolla
+author: María Suau
+layout: post
+location: Málaga, España
+type: sopa
+---
+
+- 3 cebollas dulces grandes.
+- Un chorro de aceite de oliva.
+- Una cucharadita de mantequilla.
+- Una cucharadita de harina.
+- Un chorro de vino blanco.
+- Sal y pimienta.
+- 1 litro de caldo de carne.
+- Varias rodajas de pan tostado.
+- Queso idiazabal o emmental rayado.
+
+Pelamos y cortamos las cebollas en tiras finas. En una sartén ponemos un chorro de aceite de oliva y una cucharadita de mantequilla. Añadimos la cebolla, salpimentamos y la pochamos a fuego medio. Si tapamos la sartén conseguiremos que la cebolla se quede blanca y no se dore y conserve parte de su jugo. Cuando la cebolla esté bien blandita añadimos una cucharadita de harina y la disolvemos en el jugo de la cebolla. Ahora añadimos un buen chorro de vino blanco y dejamos reducir unos 3 minutos a fuego medio. Ya tenemos la cebolla preparada. En un cuenco o plato (apto para horno) ponemos un poco de queso rayado en el fondo, una capa de cebolla, caldo y varias rebanadas de pan tostado que remojaremos bien en el caldo y dejaremos “flotando”. Cubrimos todo esto con más queso (al gusto, pero que sea más bien abundante). Gratinamos en el horno a 250º 5 minutos. Listo para disfrutar. Sabrosísima y perfecta para estas noches frías de invierno.
+
+![{{ page.title }}](/images/posts/sopa-de-cebolla.jpg "{{ page.title}}"){: .markdown-image}

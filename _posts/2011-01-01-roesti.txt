@@ -1,0 +1,25 @@
+---
+title: Rösti
+tags: rösti, patatas, bacon
+date: 2011-01-01
+slug: roesti
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- 3 patatas pequeñas.
+- 3 lonchas de bacon.
+- Sal, pimenta, tomillo, romero.
+- Aceite de oliva.
+
+
+Pelar y rayar las patatas, mezclarlas con la sal y las especias. Cortar el bacon muy pequeño y añadir. Mezclar con las manos. En una sartén añadir un buen chorro de aceite e incorporar la mezcla, repartir uniformemente formando una torta y aplastarla con una espumadera o espatula. Dejar que se haga a fuego medio y cuando se dore por un lado darle la vuelta como a una tortilla de patatas. Dorar por el otro lado. Tiene que quedar crujiente.
+
+Si queda fina se hará bien en 10-15 minutos pero si nos queda más gruesa la haremos a fuego más suave y doraremos unos 20 min por cada cara para que la patata del centro no nos quede cruda y se dore por los extremos (si lo ponemos a fuego fuerte quedará cruda por dentro y muy churruscada por fuera).
+
+Ideal para acompañar carne. La receta original la suelen hacer con mantequilla, pero a mi no me gusta. Lo dejo a vuestra elección. Espero que os guste, la verdad es que queda riquísima.
+
+![{{ page.title }}](/images/posts/roesti.jpg "{{ page.title }}"){: .markdown-image}

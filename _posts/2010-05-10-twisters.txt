@@ -1,0 +1,21 @@
+---
+title: Twisters
+tags: pizza, pesto, horno
+date: 2010-05-10
+slug: twisters
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+
+- Base fresca para pizza.
+- Pesto.
+- Bacon.
+- Queso parmesano rallado.
+
+Poner la base de la pizza sobre un papel vegetal para horno, untarle una fina capa de pesto. Colocar una loncha de bacon sobre la masa y espolvorear el parmesano. Enrollar la masa y cortarla transversalmente formando rollitos. Hornear unos 10 min hasta que la masa esté hecha y dorada.
+
+![{{ page.title }}](/images/posts/twisters-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/twisters-2.jpg "{{ page.title }}"){: .markdown-image}

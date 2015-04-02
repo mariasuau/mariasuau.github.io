@@ -1,0 +1,39 @@
+---
+title: Lasaña de berenjena, foie y cebolla caramelizada
+tags: lasaña, pasta, foie, berenjena, horno
+date: 2011-02-06
+slug: lasagna-de-berenjena-foie-y-cebolla-caramelizada
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+- 4 láminas de lasaña fácil por persona.
+- Una berenjena.
+- Una cebolla.
+- Paté, foie micuit o foie fresco.
+- Vino dulce.
+- Tomate frito.
+- Sal y aceite.
+- Queso para gratinar.
+
+
+Limpiar la berenjena y cortarla en láminas de algo menos de medio cm de grosor.
+
+Meter la berenjena en el horno con un poco de sal y aceite de oliva y hornear  hasta que estén blandas y doradas. Sacar del horno y reservar.
+
+Hidratar las láminas de lasaña fácil 10 minutos en agua caliente.
+
+En una sartén ponemos la cebolla cortada en tiras finas con un chorro de vino dulce, hasta que cubra la cebolla y un pellizco de sal y dejamos reducir a fuego medio. La cebolla debe quedar tierna y con un aspecto caramelizado, si está demasiado dura cuando se acabe el líquido añadiremos más.
+
+Preparamos el foie: Podemos usar paté pero se unta fatal así que recomiendo coger el paté con un cuchillo y raspar para formar un trozo lo más plano posible. Otra opción es usar foie micuit que se puede cortar en láminas finas. Por último podemos usar foie fresco y hacerlo a la plancha antes de montar la lasaña pero da más trabajo aunque debe quedar asombroso. No pondremos mucha cantidad  porque domina mucho.
+
+Ahora montamos la lasaña, pondremos una capa de pasta - foie (poquito) - berenjena - cebolla.
+
+Sobre la última capa añadimos salsa de tomate y el queso para gratinar y gratinamos hasta dorar el queso.
+
+Un sabor agridulce diferente. Ya me diréis qué os parece.
+
+![{{ page.title }}](/images/posts/lasagna-de-berenjena-foie-y-cebolla-caramelizada-corte.jpg "{{ page.title }}"){: .markdown-image}

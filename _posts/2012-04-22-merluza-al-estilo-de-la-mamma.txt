@@ -1,0 +1,40 @@
+---
+title: Merluza al estilo de la Mamma
+tags: merluza, pescado
+date: 2012-04-22
+slug: merluza-al-estilo-de-la-mamma
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+- 6 lomos de merluza sin piel.
+- 12 langostinos.
+- Harina para rebozar.
+- Una cebolla grande.
+- Un tomate maduro.
+- 2 dientes de ajo.
+- Fumé de langostinos.
+- 1 litro de agua.
+- Un vasito de vino blanco.
+- Aceite oliva.
+- Sal.
+
+Cogemos una olla amplia le ponemos un buen chorro de aceite de oliva y calentamos a fuego fuerte. Rebozamos los lomos de merluza sin piel en harina y los doramos en el aceite caliente. Retiramos.
+
+Ahora en esa misma olla añadiremos la cebolla, el ajo y el tomate pelados y troceados finamente y añadimos sal y pochamos bien. 
+
+Vamos pelando los langostinos, les quitamos ese hilo negro que suele tener arena y con las pieles y las cabezas preparamos un fumé. 
+
+El fumé: en una olla alta pero no muy grande, ponemos un chorro de aceite de oliva y sofreimos las cabezas y pieles de los langostinos, las machacamos bien con una espátula de madera para que suelten el jugo y una vez sofritas añadimos 1 litro de agua y un poco de sal. Dejamos hervir a fuego medio durante unos 10- 15 minutos, colamos y ya está listo.
+
+Ahora en la olla en la que tenemos las verduras añadimos la merluza y los langostinos y por último el vino y el fumé hasta cubrir en proporción 1:1, es decir la mitad de vino y la mitad de fumé suficientes para cubrir toda la merluza. Si añadimos ahora un poco (una cucharadita) de la harina que hemos usado para rebozar la merluza y que nos ha sobrado en el plato conseguiremos una salsa con un poco de cuerpo y no tan liquida.
+
+Dejamos a fuego suave unos 5 minutos. El pescado se hace enseguida, pero podemos dejarlo un poco más hasta que veamos que la salsa ha evaporado todo el alcohol del vino y ha espesado un poco.
+
+Esta receta es muy facil y sanísima. Pero lo mejor sin duda es que después de prepararla la casa no apestará a pescado. Así que animaros a probarla.
+El fumé sobrante se puede congelar para usarlo en un arrocito o lo que queramos en otra ocasión. 
+
+![{{ page.title }}](/images/posts/merluza-al-estilo-de-la-mamma.jpg "{{ page.title }}"){: .markdown-image}

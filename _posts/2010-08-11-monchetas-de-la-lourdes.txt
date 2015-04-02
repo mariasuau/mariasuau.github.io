@@ -1,0 +1,27 @@
+---
+title: Monchetas de la Lourdes
+tags: judías, horno, dieta, legumbres
+date: 2010-08-11
+slug: monchetas-de-la-lourdes
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+
+- Judias blancas cocidas.
+- Un tomate maduro pelado y troceado.
+- Una cebolla troceada.
+- Cebollino.
+- Sal, aceite y pimienta.
+
+
+Dorar la cebolla en una sartén con sal y aceite, añadir el tomate troceado y saltear hasta que esté blando y comience a deshacerse. Añadir las judias y saltear con pimienta, un poco más de aceite y el cebollino.
+
+Acompañar de butifarra o de cualquier carne. También si no queremos proteínas para hacer una dieta disociada, se puede acompañar de unas setas al horno.
+
+Un día estaba en Barcelona y mi tía Lourdes me invitó a comer, las judías estaban tan buenas que me traje un tuper lleno, metido en la maleta hasta Málaga. De aquí surgió la receta.
+
+![{{ page.title }}](/images/posts/monchetas-de-la-tia-lourdes.jpg "{{ page.title }}"){: .markdown-image}

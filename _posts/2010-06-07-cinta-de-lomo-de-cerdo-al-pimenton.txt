@@ -1,0 +1,34 @@
+---
+title: Cinta de lomo de cerdo al pimentón
+tags: carne, cerdo, horno
+date: 2010-06-07
+slug: cinta-de-lomo-de-cerdo-al-pimenton
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- Una pieza de cinta de lomo de cerdo.
+- Pimentón dulce y picante.
+- Ajo y perejil.
+- Sal.
+- Aceite oliva.
+- Vino blanco aproximadamente 200 cc un brick pequeño o un vaso poco lleno.
+
+
+Poner en una fuente para horno la cinta de lomo, añadir sal y cubrir con pimentón dulce y un poco de picante hasta que la pieza de carne quede “colorá”.
+
+Por encima añadir una picada de ajo y perejil con un buen chorro de aceite de oliva.
+
+Introducirlo en el horno y hornear a 220º hasta que el ajo se dore, luego añadimos un chorrito de vino blanco y cada 10 minutos añadimos un poco más hasta gastar el vaso de vino. Horneamos dependiendo de la pieza de carne llevará más o menos tiempo. Una cinta de lomo en 30- 40 min está listo.
+
+Servir cortado a láminas finitas. 
+
+Acompañar con patatas asadas, fritas o con lechuga.
+
+Se puede comer frío o caliente pero siempre está mejor al segundo día.
+
+![{{ page.title }}](/images/posts/lomo-de-cerdo-al-pimenton-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/lomo-de-cerdo-al-pimenton-2.jpg "{{ page.title }}"){: .markdown-image}

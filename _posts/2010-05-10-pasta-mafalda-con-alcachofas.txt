@@ -1,0 +1,32 @@
+---
+title: Pasta mafalda con alcachofas
+tags: pasta, verduras
+date: 2010-05-10
+slug: pasta-mafalda-con-alcachofas
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+- Pasta mafalda u otra pasta corta.
+- Dos dientes de ajo.
+- Una guindilla (si se quiere picante).
+- Una cebolla grande.
+- Dos alcachofas.
+- Tres tomates maduros.
+- Orégano.
+- Vino blanco.
+- Aceite de oliva.
+
+
+Ponemos en una sartén un chorro de aceite y doramos los dientes de ajo machacados con la guindilla, una vez dorado añadir la cebolla pelada y cortada a trozos medianos (dados de un cm aprox).
+
+Deshojar la alcachofa quitando varias capas de hojas externas, cortarle la punta. Cortar en laminas el corazón de la alcachofa. Saltearlo con la cebolla y el ajo hasta que se dore y ablade, añadir los tomates pelados y troceados o triturados, añadir un chorro de vino blanco, sal y oregano. Dejar reducir el vino.
+
+Cocer la pasta según las instrucciones del fabricante y una vez escurrida añadirla a la verdura y mezclar bien. Servir y disfrutar.
+
+Riquísimo, muy saludable, rápido de cocinar, compatible con dieta disociada. ¡Que aproveche!
+
+![{{ page.title }}](/images/posts/pasta-mafalda-con-alcachofas.jpg "{{ page.title }}"){: .markdown-image}

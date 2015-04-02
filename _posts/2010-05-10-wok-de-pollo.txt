@@ -1,0 +1,35 @@
+---
+title: Wok de pollo
+tags: wok, pollo, arroz, oriental
+date: 2010-05-10
+slug: wok-de-pollo
+author: María Suau
+layout: post
+location: Málaga, España
+type: oriental
+---
+
+
+- Una pechuga de pollo.
+- Una cebolla grande.
+- Un calabacín.
+- Una zanahoria.
+- Unas ramitas de brécol.
+- Salsa de soja o teriyaki.
+- Arroz largo, una taza pequeña de café poco llena por persona.
+- Aceite de oliva.
+
+
+Pelamos y troceamos la verdura en tiras, en una sartén ponemos un chorro de aceite de oliva y salteamos la verdura hasta que esté tierna. 
+
+Cortamos la pechuga de pollo en tiras y añadimos a la verdura con otro chorro de aceite y con el fuego a tope para que se dore bien el pollo.
+
+Añadimos un buen chorro de salsa de soja o teriyaki, damos un chup-chup y retiramos del fuego. (No añadimos sal a las verduras porque la salsa ya lleva bastante).
+
+Ponemos a cocer el arroz en una olla honda 1 ración de arroz por 2 y media de agua, con sal. Los minutos de cocción vienen en el envase del arroz (puede cambiar de una marca a otra). 
+
+Ahora añadimos el arroz a las verduras y el pollo, añadimos un poco más de salsa si es necesario para que el arroz tome un tono dorado y servir.
+
+Algo diferente, para variar un poco sin ir a un chino.
+
+![{{ page.title }}](/images/posts/wok-de-pollo.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,39 @@
+---
+title: Galletas básicas de chocolate
+tags: galletas, chocolate, dulce
+date: 2010-11-29
+slug: galletas-basicas-de-chocolate
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+
+- 250 gr mantequilla sin sal.
+- 250 gr azúcar blanco.
+- 1 cucharada de postre de vainilla.
+- 120 cc de leche entera.
+- 240 gr harina.
+- 120 gr de harina de fuerza.
+- 120 gr de cacao puro en polvo.
+- 20 cc de leche entera (dos cucharadas soperas).
+
+
+Precalentar el horno a 200º.
+
+En un bol grande mezclar el azúcar con la mantequilla ablandada pero no derretida, usar la batidora de aspas. Cuando la mezcla esté cremosa añadimos la vainilla y la leche y batimos bien. Tamizamos las harinas y el cacao sobre la mezcla, añadimos las dos cucharadas de leche y mezclamos bien con una espátula de madera. La masa debe quedar blanda pero no pegajosa. 
+
+Ponemos la masa entre dos hojas de papel parafinado y aplanamos con el rodillo hasta tener un grosor de medio cm. Ahora con los moldes para galleta les damos la forma y las ponemos sobre una bandeja de horno cubierta de papel parafinado.
+
+Procurar que el tamaño de las galletas sea uniforme, es decir, si usamos varios moldes hay que hacer tandas de galletas del mismo tamaño, porque si no unas se queman y las otras pueden quedar crudas.
+
+Horneamos 12-15 minutos. Como digo siempre con las galletas hay que vigilarlas con frecuencia porque cada horno es diferente, la primera tanda siempre cuesta más que se hagan, y si nos quedan más finas unas que otras se nos pueden quemar. Además al ser la masa color chocolate cuesta más ver cuando están hechas. 
+
+Una vez pasados los 12-15 min las sacamos del horno y dejamos enfriar.
+
+¡Feliz cumple Compi!
+
+![{{ page.title }}](/images/posts/galletas-de-chocolate-figuras-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/galletas-de-chocolate-figuras-2.jpg "{{ page.title }}"){: .markdown-image}

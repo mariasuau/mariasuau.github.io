@@ -1,0 +1,34 @@
+---
+title: Dorada a la ajada con pimientos de padrón y patatas
+tags: pescado, dorada, horno
+date: 2010-03-30
+slug: dorada-a-la-ajada-con-pimientos-de-padron-y-patatas
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+- Dorada abierta por la mitad.
+- Ajo.
+- Aceite.
+- Sal.
+- Pimentón picante y dulce.
+- Vinagre de vino.
+- Patatas y pimientos de padrón.
+
+
+Meter en el horno la dorada abierta a la espalda con un poco de sal y un chorro de aceite. Hornear a 250º unos 15 minutos o hasta que la carne del pescado se quede blanca.
+
+Para la ajada, en una sartén dorar unos ajos cortados en láminas, añadimos un buen chorro de vinagre y pimentón al gusto, le damos un meneillo y lo retiramos del fuego.
+
+Colocar la dorada en un plato y añadir la ajada sobre el pescado.
+
+Freír unos pimientos de padrón y unas patatillas para acompañar. (Yo uso la Actifree de Tefal para que lleve poca grasa).
+
+Las cantidades al gusto.
+
+Otra idea para comer sano y si no nos pasamos con el aceite también muy light.
+
+![{{ page.title }}](/images/posts/dorada-con-pimientos.jpg "{{ page.title }}"){: .markdown-image}

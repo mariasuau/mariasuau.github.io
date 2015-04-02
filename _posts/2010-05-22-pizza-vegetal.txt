@@ -1,0 +1,29 @@
+---
+title: Pizza vegetal
+tags: pizza, verduras, horno
+date: 2010-05-22
+slug: pizza-vegetal
+author: María Suau
+layout: post
+location: Málaga, España
+type: pizza
+---
+
+
+- Masa fresca para pizza.
+- Una berengena.
+- Un calabacín.
+- Una cebolla.
+- Un puñado de esparragos.
+- Tomate frito.
+- Queso al gusto (light o mozzarella).
+- Oregano.
+
+
+En una sartén saltear todas las verduras peladas y troceadas pequeñas, cuando la verdura esté tierna y dorada la retiramos del fuego. 
+
+Extender la masa de la pizza, untar tomate frito por toda la superficie, colocar las verduras bien distribuidas, cubrir con queso y espolvorear orégano.
+
+Hornear unos 10-15 min hasta que la masas de la pizza esté dorada.
+
+![{{ page.title }}](/images/posts/pizza-vegetal.jpg "{{ page.title }}"){: .markdown-image}

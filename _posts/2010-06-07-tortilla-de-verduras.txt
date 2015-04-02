@@ -1,0 +1,33 @@
+---
+title: Tortilla de verduras
+tags: tortillas, verduras, sano, dieta
+date: 2010-06-07
+slug: tortilla-de-verduras
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- 5 huevos.
+- Una berenjena.
+- Un calabacín.
+- Una cebolla grandecita.
+- Sal y aceite de oliva.
+
+
+En una sartén freír o simplemente saltear toda la verdura pelada y cortada a taquitos y la cebolla a tiras. Yo utilizo la Actifry de Tefal para freír con poco aceite.
+
+Luego en un cuenco añadimos los huevos, los batimos.
+
+Echamos una pizca de sal a los huevos y a la verdura.
+
+Añadimos la verdura a los huevos batidos.
+
+En una sartén antiadherente ponemos un chorro de aceite de oliva y cuando esté caliente añadimos el huevo con las verduras y montamos la tortilla.
+
+Servir templada con un tomatito “picao”. Muy sano. Estupendo para el verano, ideal en un tuper para ir a la playa y variar un poco de la típica, aunque deliciosa, tortilla de patatas.
+
+![{{ page.title }}](/images/posts/tortilla-verduras-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/tortilla-verduras-2.jpg "{{ page.title }}"){: .markdown-image}

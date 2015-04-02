@@ -1,0 +1,27 @@
+---
+title: Ensalada de ahumados al pesto
+tags: ensalada, aguacate, sano, pesto
+date: 2010-09-02
+slug: ensalada-de-ahumados-al-pesto
+author: María Suau
+layout: post
+location: Málaga, España
+type: ensalada
+---
+
+
+- Lechugas variadas con espinaca.
+- Tomate.
+- Aguacate.
+- Surtido de ahumados.
+- Queso mozzarella de búfala.
+- Aceitunas negras.
+- Sal, aceite, vinagre y una cucharada de salsa pesto.
+
+Sobre un plato ponemos una cama de lechugas variadas. Ahora ponemos sucesivamente el tomate cortado en rodajas con un poco de sal, el aguacate en láminas, el surtido de ahumados y el queso mozzarella en daditos. Ponemos unas aceitunas entre cada lamina de aguacate para decorar un poco.
+
+En un cuenco ponemos una cucharada de pesto, un chorro de aceite de oliva, y un chorrito de vinagre. Mezclamos y lo añadimos a la ensalada con ayuda de una cuchara repartiéndolo por toda la superficie.
+
+Hoy me he zampado el plato entero de la foto, estaba de rechupete.
+
+![{{ page.title }}](/images/posts/ensalada-de-ahumados.jpg "{{ page.title }}"){: .markdown-image}

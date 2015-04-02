@@ -1,0 +1,32 @@
+---
+title: Arroz salteado con setas
+tags: arroz, setas
+date: 2010-03-27
+slug: arroz-salteado-con-setas
+author: María Suau
+layout: post
+location: Málaga, España
+type: arroz
+---
+
+
+
+- 1 taza arroz largo.
+- 1 cebolla troceada fina.
+- 1 bandeja de setas (al gusto, yo prefiero pleurotus ostreatus).
+- Sal, aceite oliva y pimienta.
+- 1 diente ajo.
+- Un chorro de limón.
+
+
+Troceamos la cebolla y la pochamos en una sartén con un chorrito escaso de aceite.
+
+Cuando la cebolla está dorada añadimos las setas troceadas. Salpimentamos. Salteamos las setas hasta que queden un poco doraditas.
+
+Para cocer el arroz: en una cazuela ponemos un chorrito aceite a calentar y doramos un diente de ajo, añadimos la taza de arroz y el agua según las indicaciones del paquete (generalmente 2,5 medidas de agua por medida de arroz) y añadimos sal y un chorrito de limón para que suelte el almidón, dejar cocer el tiempo que indique el paquete. Lavamos muy bien el arroz para que no se quede pegajoso. También venden en Mercadona arroz precocido congelado que queda bastante bien y está rico por si un día tenemos prisa.
+
+Añadimos el arroz a las setas y lo salteamos en la sartén. 
+
+Servir, comer y disfrutar.
+
+![{{ page.title }}](/images/posts/arroz-con-setas.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,28 @@
+---
+title: Ensalada de pollo con vinagreta de mostaza
+tags: ensalada, pollo, sano
+date: 2011-01-23
+slug: ensalada-de-pollo-con-vinagreta-de-mostaza
+author: María Suau
+layout: post
+location: Málaga, España
+type: ensalada
+---
+
+
+- Lechugas variadas (la que más nos guste).
+- Las sobras de un pollo asado.
+- Un puñado de nueces troceadas.
+- Cuscurros de pan frito o croutons.
+- Una manzana.
+- Una cucharada de mostaza.
+- Sal, vinagre y aceite de oliva.
+
+
+En un cuenco grande ponemos la lechuga, el pollo limpio y troceado, las nueces y el pan frito. Pelamos y troceamos la manzana en daditos pequeños y la añadimos.
+
+En un bote con tapa ponemos una cuharada de las de postre de mostaza, la sal y el aceite y vinagre en proporción 3:1. Ahora batimos bien hasta que la vinagreta quede homogenea. 
+
+Aliñamos la ensalada con la vinagreta de mostaza y removemos, servimos y comemos.
+
+![{{ page.title }}](/images/posts/ensalada-de-pollo.jpg "{{ page.title }}"){: .markdown-image}

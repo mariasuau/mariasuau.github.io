@@ -1,0 +1,39 @@
+---
+title: Quiche Lorraine
+tags: quiche, francesa, horno, queso, jamón
+date: 2011-12-03
+slug: quiche-lorraine
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+- Una hoja de masa quebrada.
+- Un vaso de leche entera.
+- 4 huevos.
+- 250 gr de jamón cocido.
+- 250 gr de queso en lonchas tipo edam.
+- Un pellizco de sal.
+- Una cucharadita de oregano.
+- Queso emmental para gratinar.
+- Opcional: 4-5 lonchas de bacon frito cortado en trozos pequeños.
+- Precalentar el horno por arriba y abajo a 220º con la bandeja en el medio.
+
+Cogemos un molde que puede ser redondo o cuadrado, pero que nos quepa la hoja de masa quebrada dejando los bordes suficientes para cubrir las paredes del molde con la masa.
+
+Ponemos una hoja de papel parafinado especial para horno sobre el molde y sobre esta hoja colocamos la masa quebrada.
+
+En un cuenco batimos los 4 huevos con un poco de sal y añadimos la leche y batimos bien.
+
+Cortamos el jamón y el queso (y el bacon si se quiere dar un sabor más intenso) en tiras pequeñas de más o menos 1x2cm. y los añadimos a la leche y los huevos y mezclamos bien. Añadimos también el orégano y mezclamos.
+
+Ahora ponemos la mezcla dentro de la masa y distribuimos uniformemente el relleno.
+
+Cubrimos con queso emmental rallado.
+
+Metemos en el horno y horneamos unos 25 minutos. Hay que tener en cuenta que si el molde nos deja un relleno grueso puede llevarle unos minutos más de horneado, tiene que quedar bien cuajado y el queso dorado. Si por el contrario el molde es grande y el relleno forma una capa más delgada se hará antes.
+
+Se puede comer frío o caliente. Ideal en fiestas y picnics. Exito asegurado.
+
+![{{ page.title }}](/images/posts/quiche-lorraine.jpg "{{ page.title }}"){: .markdown-image}

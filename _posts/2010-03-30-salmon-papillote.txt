@@ -1,0 +1,35 @@
+---
+title: Salmón en papillote
+tags: pescado, salmón, verdura, horno
+date: 2010-03-30
+slug: salmon-papillote
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+- Lomos de salmón.
+- 1 Zanahoria.
+- 1 Calabacín.
+- 1 Cebolla o puerro.
+- Salsa soja.
+- Cebollino y ajonjolí para decorar.
+- Aceite oliva
+
+Cortar las verduras en tiras y saltearlas en una sartén con un chorrito de aceite oliva hasta que queden blandas y un poco doradas.
+
+Poner en un trozo grande de papel de aluminio el pescado y sobre éste las verduras.
+
+Añadir un chorrito de salsa de soja y cerrar el papel de aluminio formando un paquete hermético.
+
+Hornear unos 20 min a 250º.
+
+Si en lugar de papel aluminio usamos un molde de silicona para cocinar al vapor podemos hacerlo al microondas en menos tiempo.
+
+Servir el pescado con las verduras y decorar con un poco de cebollino fresco picado y ajonjolí.
+
+Este plato combina perfectamente con arroz salvaje o basmati.
+
+![{{ page.title }}](/images/posts/salmon-papillote.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,26 @@
+---
+title: Tomates y ñoras en aceite
+tags: tomates, conserva
+date: 2010-08-22
+slug: tomates-y-noras-en-aceite
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+
+- Tomates secos.
+- Ñoras.
+- Ajo.
+- Orégano.
+- Aceite de oliva virgen.
+
+En una olla poner agua a hervir, escaldar los tomates y las ñoras por separado. Dejarlos en remojo un rato para que ablanden. Meter en botes de cristal las ñoras y los tomates por separado. Añadir ajo troceado, orégano y aceite de oliva hasta cubrir.
+
+Los tomates son estupendos para pasta, ensaladas y guisos. Las ñoras van genial para sofritos y caldos de pescado.
+
+Gracias Mimí por la receta.
+
+![{{ page.title }}](/images/posts/tomates-y-noras-en-aceite.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,54 @@
+---
+title: Rosco de Reyes
+tags: dulce
+date: 2011-01-04
+slug: rosco-de-reyes
+author: María Suau
+layout: post
+location: Málaga, España
+type: desayuno
+---
+
+
+- 650 gr de harina de fuerza.
+- 250 ml de leche.
+- 25 gr de levadura fresca[^fn1].
+- 120 gr de azúcar.
+- 120 gr de mantequilla blanda, como pomada.
+- 2 huevos enteros y una yema.
+- 10 gr de sal.
+- 2 cucharadas y media de agua de azahar[^fn2], unos 25 ml.
+- 3 cucharadas de ron (30 ml).
+- Rayadura de la piel de un limón y una naranja.
+
+
+[^fn1]: la levadura fresca se encuentra en Mercadona junto la mantequilla y y aviene en tacos de 25 gr.
+
+[^fn2]: el agua de azahar se encuentra en farmacias, ya que se usa como tónico para la piel, pero no os preocupéis que es el que se usa en la receta, lo he comprobado. Un bote cuesta unos 5 euros pero cunde mucho.
+
+
+**Para decorar el rosco**
+
+- Nueces picadas y almendra laminada
+- Azúcar.
+- Un huevo batido.
+
+
+Para la masa: mezclamos en un bol la mitad de la leche, que debe estar tibia, con dos o tres cucharadas de harina y la levadura desmenuzada.  Se tapa y se deja una hora fermentando. Notaremos que ha fermentado bien porque queda como una pasta ligera, burbujeante y que aumenta de tamaño.
+
+En un bol grande tamizamos harina y vamos añadiendo todos los ingredientes incluyendo la masa fermentada anterior, pero la mantequilla será el último de todos. Amasar hasta que quede homogénea. Hay que amasar durante bastante tiempo, que quede un poco pegajoso pero no suelto. Se añade más harina si hace falta. Después pondremos la masa en una bandeja o cuenco, tapamos con un trapo y la dejaremos fermentar otras 2 horas en un lugar más o menos cálido sin aire, por ejemplo dentro del horno apagado.
+
+Después de este tiempo amasaremos otro poco y damos forma al roscón. Para darle la forma partimos de la bola de masa, le hacemos un orificio central con los dedos y vamos abriendolo, procurando que todo el anillo quede uniforme en tamaño. El agujero después de hornear queda más pequeño, así que intentar que quede grandecito.
+
+Ahora pintamos la masa con huevo batido y cubrimos con nuez picada y almendras laminadas. Volvemos a tapar una hora más en el horno previamente calentado a 50º pero ya apagado, la masa prácticamente duplicará su tamaño. Por último se pinta de nuevo la masa con huevo, espolvoreamos azúcar por encima, cantidad al gusto, pero queda mejor si no se pone demasiada. Horneamos a media altura con el horno bien precalentado a 180º durante 25 minutos. 
+
+La verdad es que para mí hacer esta receta ha sido un pequeño reto, no sabía si quedaría bien, pero la verdad, y no es por echarme flores, es que queda mejor que cualquier rosco de panadería y además sale mucho más económico.
+
+Además podemos adornarlo con chocolate, frutos secos o con las típicas frutas confitadas y rellenarlo de trufa, nata, crema o lo que se nos ocurra.
+
+Yo no le puse figurita porque después no se que hacer con ella, ni haba porque no tenia ganas, así que todo eso lo dejo a vuestra imaginación, eso sí aseguraos de que la figurita no es tóxica.
+
+Espero que todos hayáis tenido felices Reyes Magos.
+
+![{{ page.title }}](/images/posts/rosco-de-reyes-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/rosco-de-reyes-2.jpg "{{ page.title }}"){: .markdown-image}

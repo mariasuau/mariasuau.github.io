@@ -1,0 +1,38 @@
+---
+title: Cazuela de arroz integral con espinacas
+tags: arroz, verduras, sano, dieta
+date: 2010-09-21
+slug: cazuela-de-arroz-integral-con-espinacas
+author: María Suau
+layout: post
+location: Málaga, España
+type: arroz
+---
+
+
+
+- Una cebolla grande.
+- Una zanahoria.
+- Un manojo de esparragos verdes.
+- Un taco de espinaca en hoja congelada.
+- 2 ñoras en aceite.
+- Una taza de arroz integral.
+- 2 tazas y 1/2 de caldo de pollo.
+- Sal y aceite de oliva.
+
+
+Pelamos la cebolla y la zanahoria y las cortamos a daditos pequeños. En una olla ponemos un chorro de aceite de oliva y salteamos la cebolla y la zanahoria hasta que queden blandas.
+
+Si tenemos ñoras, rascamos la carne de la ñora y la añadimos al sofrito (tampoco es esencial).
+
+Añadimos los esparragos y las espinacas descongeladas y salteamos. Podemos cortar un poco las espinacas para que se mezclen mejor.
+
+Ponemos un poco de sal en las verduras, no mucha, especialmente si usamos caldo precocinado que ya viene algo saladito.
+
+Añadimos el caldo y cuando hierva echamos el arroz y dejamos cocer a fuego medio unos 20 minutos.
+
+Queda muy rico, con abundante fibra, lo cual es sanísimo para prevenir el estreñimiento, el cancer de colon y además reduce el colesterol. 
+
+Vida sana, corpore sano y a disfrutar que son dos días.
+
+![{{ page.title }}](/images/posts/arroz-integral-con-espinacas.jpg "{{ page.title }}"){: .markdown-image}

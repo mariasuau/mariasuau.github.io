@@ -1,0 +1,36 @@
+---
+title: Estrellitas de limón
+tags: galletas, dulce
+date: 2010-11-19
+slug: estrellitas-de-limon
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+- 125 gr de mantequilla sin sal.
+- 125 gr de azúcar blanco.
+- 2 huevos (solo la yema).
+- Ralladura de limón, una cucharada sopera.
+- 150 gr de harina normal.
+- 110 gr de maicena.
+
+
+Primero precalentamos el horno a 160º.
+
+En un bol grande mezclamos con la batidora de aspas el azúcar con la mantequilla ablandada pero no derretida. Cuando tengamos una mezcla homogénea y cremosa añadimos las yema y el limón. Cuando tengamos esto bien mezclado incorporamos la harina y la maicena poco a poco. Vamos mezclando con una espátula rígida (de madera) hasta formar una bola de masa blanda pero que no se nos pegue en los dedos.
+
+Ponemos la masa entre dos hojas de papel parafinado para horno y con el rodillo amasamos hasta que tenga medio cm de grosor. Con un molde en forma de estrella o bien un vaso si no tenemos molde, cortamos las galletas y las vamos poniendo sobre una bandeja de horno cubierta con papel parafinado. Las separamos un poco unas de otras. Con la masa sobrante hacemos una bola y repetimos la operación hasta que se nos acabe toda la masa. La última galleta  siempre queda con una forma un poco chunga pero no importa, siempre están buenas.
+
+Ahora horneamos unos 12-15 minutos a 160º, pero ojo, que cada horno es diferente, el tiempo de horneado cambia un poco si las hacemos más finas o más gruesas. Lo ideal es que cuando le le empiecen a dorar los bordes las saquemos. Además lo normal es que aunque pongamos a precalentar el horno la primera tanda de galletas les cuesta uno minutos más hacerse, y las tandas sucesivas se hacen más rápido. Así que ojo, vigilarlas con frecuencia.
+
+Para decorarlas podemos ponerles azúcar glas, o hacerles unas rayas de chocolate o bien sumergir la mitad de la galleta en chocolate derretido y dejar enfriar. Solas también están impresionantes.
+
+Nota: si cuesta manipular la masa al cortarla, enfriar la masa un poco.
+
+Dedicadas a mi Estrella.
+
+![{{ page.title }}](/images/posts/estrellas-de-limon-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/estrellas-de-limon-2.jpg "{{ page.title }}"){: .markdown-image}

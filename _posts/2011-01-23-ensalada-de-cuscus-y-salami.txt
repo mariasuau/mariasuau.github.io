@@ -1,0 +1,29 @@
+---
+title: Ensalada de cuscús y salami
+tags: ensalada
+date: 2011-01-23
+slug: ensalada-de-cuscus-y-salami
+author: María Suau
+layout: post
+location: Málaga, España
+type: ensalada
+---
+
+
+- Cuscús.
+- Cuatro lonchas de salami italiano.
+- Un puñado de pipas peladas.
+- Hojas de espinaca fresca.
+- Un tomate mediano.
+- Sal, pimienta, aceite de oliva y vinagre.
+
+
+Troceamos las hojas de espinaca, cortamos el tomate en dados y el salami en tiras.
+
+Para hacer el cuscús ponemos en una olla pequeña dos dedos de agua con un pellizco de sal. Llevamos a ebullición y retiramos. Añadimos el cuscús y dejamos que se hidrate. La proporción de cuscús y agua depende de la marca, normalmente el doble de agua que de cuscús, pero lo mejor es mirar las instrucciones. Enfriar (hacerlo con tiempo para que esté frío, si no tenemos tiempo enjuagar con agua fría en un colador fino y escurrir bien para que suelte el exceso de agua).
+
+Mezclamos todos los ingredientes.
+
+Aliñar con aceite, vinagre, pimienta y sal.
+
+![{{ page.title }}](/images/posts/ensalada-de-cuscus-y-salami.jpg "{{ page.title }}"){: .markdown-image}

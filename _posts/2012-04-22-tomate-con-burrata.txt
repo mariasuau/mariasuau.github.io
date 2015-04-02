@@ -1,0 +1,27 @@
+---
+title: Tomate con burrata
+tags: tomate, burrata
+date: 2012-04-22
+slug: tomate-con-burrata
+author: María Suau
+layout: post
+location: Málaga, España
+type: ensalada
+---
+
+
+- Una burrata.
+- Tomates maduros para ensalada.
+- Aceite oliva.
+- Sal.
+- Albahaca fresca.
+
+Simplemente colocamos el tomate a rodajas cubriendo todo el fondo del plato o bandeja, sobre este picamos unas cuantas hojas de albahaca fresca, aliñamos con sal y un buen aceite de oliva y sobre todo esto colocamos la burrata. Ya está listo.
+
+La burrata es un queso italiano similara la mozarella, pero con el centro cremoso. Hay que tener en cuenta que cuando cortemos el queso se va a desparramar como una crema. 
+
+Es una delicia, un poco caro (unos 13€ la unidad de burrata), pero de vez en cuando merece la pena probar algo diferente.
+
+Si no queremos gastarnos tanto dinero podemos usar mozarella y añadir un poco de paté de aceitunas negras que le da un toque especial.
+
+![{{ page.title }}](/images/posts/tomate-con-burrata.jpg "{{ page.title }}"){: .markdown-image}

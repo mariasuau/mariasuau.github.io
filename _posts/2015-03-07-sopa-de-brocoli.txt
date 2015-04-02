@@ -1,0 +1,35 @@
+---
+title: Sopa de brocoli
+tags: sano, dieta, sopa, verduras
+date: 2015-03-07
+slug: sopa-de-brocoli
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- Una cebolla mediana.
+- Medio pimiento rojo pequeño o 1/4 de uno grande.
+- 2 tomates maduros pequeños pelados.
+- Un brocoli.
+- Un puñado de almendras o una mezcla de almendra y avellana tostadas.
+- Medio pitufo de pan tostado o frito.
+- Agua o caldo.
+- Aceite de oliva.
+- Sal, pimienta y tabasco.
+
+Elaboración con thermomix:
+
+Pelamos la cebolla, limpiamos el pimiento y pelamos los tomates, los metemos en el vaso de la thermomix y troceamos 5 segundos V4. Con la espatula bajamos los restos de la pared y añadimos aceite (yo lo hago a ojo, un chorrito para que no engorde mucho). Hacemos el sofrito Tª varoma, V cuchara, 15 minutos.
+Añadimos el pan frito y trituramos bien, aproximadamente 30 seg, V10. Se le puede añadir un poco del agua o caldo para triturar mejor y que quede fino. Ahora añadimos las almendras y avellanas y trituramos 15-20 seg vel 5-10, si quedan trocitos pequeños de almendra es muy agradable encontrarlos en la sopa.
+Ahora añadimos el brocoli (yo solo pongo las puntitas) y cubrimos con agua o caldo, salpimentamos al gusto y programamos Giro izquierda, V cuchara, Tª varoma, 25-30 min.
+Pasado este tiempo comprobamos el punto de cocción del brocoli. Si esta poco hecho lo dejaremos cocer unos minutos más. Si no vamos a comer la sopa inmediatamente y la vamos a recalentar es preferible dejar la verdura al dente para evitar que quede recocida al recalentar.
+Por último, añadir unas gotas de tabasco al gusto y a disfrutar. Esta receta admite todo tipo de variaciones, con coliflor, solo con almendra, con o sin cebolla, con azafran. Seguro que siempre queda buena. 
+
+Elaboración sin thermomix:
+
+Pelar la cebolla y los tomates y limpiar el pimiento. Trocearlo todo pequeño y sofreir en una olla con aceite y sal. Una vez pochado añadir el pan frito o tostado. Batirlo todo junto con un poco de caldo o agua y cuando esté fino añadir los frutos secos y triturar dejando algun trocito. Añadir el brocoli, cubrir de agua o caldo. Salpimentar. Dejar cocer a fuego medio 25 min. Servir con unas gotas de tabasco.
+
+![{{ page.title }}](/images/posts/sopa-de-brocoli.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,29 @@
+---
+title: Sopa de calabacines
+tags: sopa
+date: 2011-01-25
+slug: sopa-de-calabacines
+author: María Suau
+layout: post
+location: Málaga, España
+type: sopa
+---
+
+
+
+- Un calabacín.
+- Una cebolla tierna o un puerro.
+- Dos patatas pequeñas o una mediana.
+- Agua, sal y pimienta.
+- Dos quesitos tipo El Caserío.
+- Croutons de pan.
+- Aceite de oliva para decorar.
+
+
+En una olla ponemos el toda la verdura pelada y troceada, añadimos un pellizco de sal y pimienta al gusto. Añadir agua hasta cubrir y un poco más. Llevar a ebullición a fuego fuerte y luego bajar a fuego medio y dejar cocer hasta que toda la verdura esté tierna, le lleva unos 15-20 minutos. Añadir los quesitos y triturar fino. Dejar que haga un chup-chup. Si nos gusta más espesa antes de triturar podemos retirar un poco de agua, o bien dejarla más tiempo al fuego.
+
+La servimos caliente o fria con croutons de pan y un chorrito minúsculo de aceite para que quede más bonito.
+
+Es un plato de toda la vida. Todavía recuerdo que tras un viaje a Inglaterra con 11 años lo primero que le pedí a mi madre para comer cuando volví fue una sopa de calabacines, y eso que como verdura que es a esa edad me daba mucha pereza comerla. No me extraña que haya tantos ingleses viviendo en España, si prueban nuestra comida no quieren volver.
+
+![{{ page.title }}](/images/posts/sopa-de-calabacines.jpg "{{ page.title}}"){: .markdown-image}

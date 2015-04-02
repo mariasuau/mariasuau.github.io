@@ -1,0 +1,33 @@
+---
+title: Arroz con alcachofas y setas
+tags: arroz, verduras, alcachofas, setas
+date: 2010-04-19
+slug: arroz-con-alcachofas-y-setas
+author: María Suau
+layout: post
+location: Málaga, España
+type: arroz
+---
+
+
+- Arroz una taza pequeña por persona poco llena.
+- Dos alcachofas.
+- Una cebolla grande.
+- Una bandeja pequeña de setas pleurotus ostreatus.
+- Caldo de carne o pollo. Dos tazas y media por taza de arroz.
+- Sal y pimienta.
+
+
+Troceamos la cebolla y la pochamos en una sartén con poco aceite.
+
+Limpiamos las alcachofas, quitando hojas del exterior y cortamos la punta, luego la troceamos en laminas y la añadimos a la cebolla y la doramos.
+
+Cortamos las setas y las añadimos a la cebolla y la alcachofa. Salpimentamos.
+
+Poner en una olla el arroz, una tacita pequeña poco llena por persona, añadimos el caldo dos tazas ó dos tazas y media por taza de arroz (depende de la marca de arroz, mirar el envase), añadir la verdura y dejar cocer el arroz hasta que se consuma el caldo y el arroz esté tierno.
+
+Dejar reposar 5 minutos con el fuego apagado y servir.
+
+Rico, fácil y sanísimo. Muy adecuado para dietas disociadas.
+
+![{{ page.title }}](/images/posts/arroz-con-alcachofas-y-setas.jpg "{{ page.title }}"){: .markdown-image}

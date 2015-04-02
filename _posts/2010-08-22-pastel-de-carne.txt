@@ -1,0 +1,25 @@
+---
+title: Pastel de carne
+tags: pastel, carne, horno
+date: 2010-08-22
+slug: pastel-de-carne
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- 1 kg de carne de ternera picada.
+- Un paquete de jamón york, picado con el robot de cocina.
+- Dos huevos.
+- Una cebolla grande cortada en trozos muy pequeños.
+- Un chorro de brandy.
+- Sal y pimienta.
+- Dorar la cebolla en una sartén. En un cuenco grande poner la carne, la cebolla dorada, los dos huevos, el jamón york, un chorro de brandy, sal y pimienta. Mezclar todo.
+
+Preparar un molde desmontable de horno, del tipo que se usan para los pasteles, poner el la base papel vegetal para que no se pegue. Meter la carne en el molde y al horno. unos 30 minutos a 250º. Veremos que está hecho cuando la masa se retrae y se queda de un color dorado.
+
+Servir en porciones acompañado con la guarnición que más nos guste. Puede que estéticamente no sea el plato más bonito pero está muy bueno, jugoso, cunde mucho y es bastante original. A disfrutarlo.
+
+![{{ page.title }}](/images/posts/pastel-de-carne.jpg "{{ page.title }}"){: .markdown-image}

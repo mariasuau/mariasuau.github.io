@@ -1,0 +1,24 @@
+---
+title: Grilletines con aguacate y jamón ibérico
+tags: pan, aguacate, rápido
+date: 2010-10-23
+slug: grilletines-con-aguacate-y-jamon-iberico
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+
+- Grilletines.
+- Aguacate.
+- Sal. 
+- Aceite de oliva.
+- Jamón Ibérico.
+- Las cantidades al gusto.
+
+Pelamos el aguacate y lo aliñamos con sal y aceite. Lo machacamos bien con un tenedor. Untamos el aguacate sobre los grilletines y cubrimos con el jamón.
+
+Facil, rápido, riquísimo, ideal para aperitivos o para una cena rápida.
+
+![{{ page.title }}](/images/posts/grilletines-con-aguacate-y-jamon-iberico.jpg "{{ page.title }}"){: .markdown-image}

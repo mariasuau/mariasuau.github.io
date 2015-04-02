@@ -1,0 +1,46 @@
+---
+title: Ensalada de judías verdes y atún
+tags: ensalada, judías, atún, sano
+date: 2011-10-09
+slug: ensalada-de-judias-verdes-y-atun
+author: María Suau
+layout: post
+location: Málaga, España
+type: ensalada
+---
+
+
+- 500 gr de judias verdes frescas o congeladas.
+- 3 patatas grandes.
+- Un bote de atún o bonito de unos 200gr.
+- Dos huevos duros.
+- Un puñado de aceitunas negras sin hueso cortadas.
+- Una cebolleta pequeña.
+- Aceite, vinagre de manzana, sal y pimienta.
+
+
+Primero pelamos las patatas y las troceamos en dados de unos 2x2 cm. 
+
+Ponemos una olla con agua abundante y una cucharadita de sal y llevamos a ebullición. Ahora incorporamos las patatas y cocemos a fuego medio hasta que estén blandas (pinchamos con un cuchillo para comprobar que están bien cocidas, llevará unos 15-20 minutos aproximadamente, pero cada patata cuece en un tiempo distinto y hay que hacerlo a ojo) . Escurrimos y reservamos en una fuente grande.
+
+Ahora preparamos las judías verdes. Yo suelo usar las judías redondas y congeladas por comodidad y quedan riquísimas y te ahorras limpiarlas. Se cuecen en una olla con agua hirviendo con sal unos 8 minutos. Escurrimos y las mezclamos con la patata.
+
+Ahora solo tenemos que tener un par de huevos duros preparados, los pelamos y cortamos y añadimos a las judías con patatas.
+
+Escurrimos el aceite del atún y lo desmigamos y añadimos a la mezcla anterior.
+
+Pelamos y cortamos la cebolleta en trozos muy pequeños y añadimos a lo anterior.
+
+Podemos comprar las aceitunas ya troceadas, pero si las hemos comprado enteras (sin hueso) las cortamos en tres trozos y las añadimos.
+
+Ahora mezclamos bien.
+
+Aliñamos al gusto con pimienta, aceite y vinagre. No hace falta añadir más sal porque la judía y la patata ya están cocidas con sal y el atún y las aceitunas ya suelen ser más o menos saladitos.
+
+Dejar enfriar y refrigerar. Está más buena al día siguiente cuando se han mezclado los sabores.
+
+Es una ensalada muy fresca, ideal para el verano y perfecta para una comida de picnic o para llevarla al trabajo.
+
+Espero que la disfrutéis.
+
+![{{ page.title }}](/images/posts/ensalada-de-judias-verdes.jpg "{{ page.title }}"){: .markdown-image}

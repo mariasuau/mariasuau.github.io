@@ -1,0 +1,41 @@
+---
+title: Lasaña de verduras asadas
+tags: pasta, verduras, lasagna, horno, 
+date: 2010-03-21
+slug: lasagna-de-verduras-asadas
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+
+- 5 láminas de pasta de lasaña facil.
+- 1 berenjena.
+- 1 calabacín.
+- Tomate frito tipo casero.
+- Una mijilla de queso para gratinar.
+- Sal y aceite.
+
+Se pelan y cortan la berenjena y el calabacín en laminas de unos 3 mm, se colocan en la bandeja del horno, sobre un papel vegetal especial para horno, con un poco de sal y un chorrito de aceite de oliva.
+
+Hornear hasta que la verdura esté dorada (unos 15 min a 200º aproximadamente).
+
+Poner las láminas de la lasaña a remojo en agua caliente 10 min (no hace falta hervirla si es la pasta fácil).
+
+Montar la lasaña con una capa de pasta otra de verduras con una buena cucharada de tomate frito, otra de pasta y otra de verduras con tomate y así sucesivamente.
+
+Finalmente cubrir con más tomate y espolvorear un poco de queso.
+
+Gratinar en el horno hasta que el queso esté dorado (5-10 min modo gratinar a 250º). Vigilarlo para que no se queme.
+
+Esta receta sirve para dietas disociadas en las que no se mezclan carbohidratos y proteínas, aunque mejor si no se le pone el queso o se le pone bajo en grasa y poquita cantidad que engorda mucho.
+
+Yo me la hago con frecuencia, es sana, rápida y deliciosa. Os la recomiendo a todos.
+
+Si alguien no tiene que controlar la linea puede ponerle algo de bechamel y suavizar un poco la salsa de tomate.
+
+También admite otros ingredientes como setas, cebolla, zanahoria, ….. Echadle imaginación.
+
+![{{ page.title }}](/images/posts/lasagna-verduras-asadas.jpg "{{ page.title }}"){: .markdown-image}

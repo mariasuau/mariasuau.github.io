@@ -1,0 +1,44 @@
+---
+title: Gratinado de calabacines
+tags: gratinado, calabacín, sano, horno
+date: 2011-03-24
+slug: gratinado-de-calabacines
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- 1 cebolla grande o dos medianas.
+- 4 calabacines.
+- Un chorro de leche.
+- Una cucharadita de harina.
+- Un huevo.
+- Queso emmental rayado.
+- Nuez moscada, pimenta, sal y aceite de oliva.
+
+
+Pelamos y picamos la cebolla en juliana. Salamos y con un buen chorro de aceite de oliva, en una sartén que tenga un poco de fondo, pochamos la cebolla. 
+
+Pelamos y cortamos en daditos pequeños el calabacín.
+
+Añadimos a la cebolla, ponemos un poco más de sal y aceite y salteamos a fuego medio hasta que toda la verdura esté bien blanda y pierda el agua.
+
+Ahora con un tenedor o espátula machacamos el calabacín y la cebolla, haciendo una “pasteta”. 
+
+Añadimos media cucharadita de nuez moscada molida y pimienta al gusto.
+
+Ahora añadimos un chorrito de leche con una cucharadita de harina para ligar. Y echamos el huevo y lo mezclamos bien hasta que todo quede bien ligado.
+
+Añadimos por último un puñadito de queso rayado y mezclamos.
+
+Tode este mejunje lo ponemos en una fuente apta para horno y cubrimos con más queso para gratinar.
+
+Gratinamos y a zampar.
+
+Está delicioso, es una de las recetas tradicionales de mi madre y hacía años que no lo preparaba. Es uno de esos redescubrimientos que haces un día cualquiera, de repente te acuerdas, “y ese gratinado que hacia mi madre, ummmmm que rico era”.
+
+Así que aquí lo tenéis. Espero que lo disfrutéis tanto como yo.
+
+![{{ page.title }}](/images/posts/gratinado-de-calabacines.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,32 @@
+---
+title: Pollo a la naranja
+tags: pollo
+date: 2011-01-23
+slug: pollo-a-la-naranja
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- Un pollo troceado.
+- Zumo de 4 naranjas.
+- La piel de media naranja.
+- Un vaso de caldo de pollo.
+- 2 cucharadas de salsa de tomate.
+- Un vaso de vino tinto.
+- Una cucharada de harina.
+- Una copita de cognac.
+- Aceite de oliva, sal, pimienta y dos hojas de laurel.
+
+
+En una olla grande ponemos un buen chorro de aceite. Salpimentamos el pollo y lo doramos bien en la olla. Añadimos el cognac y dejamos cocer unos 2-3 minutos. Sacar el pollo y reservar. Rehogar la harina en el resto del aceite, añadir el vino, el caldo, el zumo, las dos cucharadas de tomate y el laurel. Volver a meter el pollo en la olla. Cortamos la piel de media naranja quitándole la mayor parte de la parte blanca y lo troceamos en mini daditos de unos milímetros y la añadimos al guiso.
+
+Dejar a fuego lento hasta que el pollo esté tierno, unos 30 min aproximadamente.
+
+Este plato me encanta acompañado de arroz, queda perfecto con una mezcla de arroz salvaje y basmati.
+
+Gracias a las Tías de Madrid por esta receta, me encanta.
+
+![{{ page.title }}](/images/posts/pollo-a-la-naranja.jpg "{{ page.title }}"){: .markdown-image}

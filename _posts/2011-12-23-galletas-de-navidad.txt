@@ -1,0 +1,30 @@
+---
+title: Galletas de Navidad
+tags: galletas, navidad, horno
+date: 2011-12-23
+slug: galletas-de-navidad
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+- 500 gr harina.
+- 250 gr mantequilla sin sal.
+- 250 gr azúcar.
+- 3 huevos.
+- Un sobre de levadura.
+- Ralladura de un limón. 
+
+En un bol grande batimos el azúcar con los huevos. Ahora añadimos la mantequilla que tiene que estar muy blanda, si es necesario le damos un toque de microondas. Batimos bien. Añadimos la ralladura del limón y mezclamos. Ahora y con movimientos envolventes añadimos poco a poco la harina y la levadura. La masa tiene que estar muy elástica[^fn1] pero que no se nos pegue a los dedos. Dejamos reposar dos horas. Precalentamos el horno a 150 grados. Aplanamos la masa entre dos hojas de papel parafinado hasta que quede de 2-3�mm grosor. Le damos la forma (un vaso mismo sirve) y vamos colocando las galletas en otra hoja de papel parafinado con un cm de separación entre cada galleta. Horneamos 15 minutos. tienen que quedar los bordes dorados. Si usamos moldes pequeños y si el horno está bien caliente es probable que las galletas ya estén hechas en 12 minutos. Sacarlas del horno y dejar enfriar sobre una rejilla.
+
+[^fn1]: Si la masa se rompe porque está muy blanda al manejarla enfriarla un rato en la nevera, se maneja mejor.
+
+Ya tenemos las galletas más buenas del mundo (receta espectacular de mi Tia Lourdes). Donde van triunfan.
+
+Si lo que quieres es hacer algo como lo de la foto, solo se trata de añadir el colorante alimentario a la masa antes de dejarla reposar (amarillo+azul para el verde, rojo y cacao para el marrón). La masa se maneja más o menos como plastilina, así que simplemente es cuestión de echarle imaginación y un poco de tiempo.
+
+**¡Feliz Navidad desde Pantumaca!**
+
+![{{ page.title }}](/images/posts/galletas-navidad-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/galletas-navidad-2.jpg "{{ page.title }}"){: .markdown-image}

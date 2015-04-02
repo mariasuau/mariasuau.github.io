@@ -1,0 +1,47 @@
+---
+title: Albóndigas, almóndigas o pantóndigas
+tags: albondigas, carne
+date: 2011-01-21
+slug: albondigas-almondigas-o-pantondigas
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- 1/2 kg de carne picada de ternera.
+- 1/2 kg de carne picada de cerdo.
+- 150 gr de jamón dulce picado.
+- 1 huevo.
+- 150 gr de pan rallado (si no tenemos usaremos miga de pan mojada en leche).
+- 2 dientes de ajo picado.
+- Sal, aceite y pimienta.
+- Harina.
+- 3 cebollas grandes.
+- Un puñado de almendras.
+- Una pastilla de chocolate negro.
+- 500 ml de caldo de pollo.
+ 
+
+Picamos el jamón, y lo ponemos en un bol grande junto la carne, el huevo, el pan rallado, el ajo picado fino, una cucharada de sal, pimienta al gusto. Mezclamos con las manos hasta que todo quede homogéneo. 
+
+En un plato ponemos harina para ir enharinando las albóndigas. 
+
+Vamos haciendo bolitas del tamaño de una pelotita de pinpon, las pasamos por la harina y las reservamos.
+
+Cuando tengamos todas las albóndigas en una olla grande ponemos un dedo de aceite de oliva, lo calentamos y doramos todas las albóndigas y las sacamos de la olla reservándolas de nuevo.
+
+Pelamos y picamos finamente las cebollas. En la misma olla con el mismo aceite que hemos sofrito las albóndigas salteamos bien la cebolla hasta que esté blanda y dorada.
+
+Añadimos las almendras trituradas, media cucharada de harina y salteamos. Añadimos la pastilla de chocolate y mezclamos.
+
+Añadimos ahora el caldo y las albóndigas y dejamos a fuego lento durante 30-40 minutos.
+
+Si el caldo es de brick no añadiremos sal a la salsa, pero si usamos un caldo casero añadiremos un pellizco de sal a la salsa.
+
+Son deliciosas y jugosas, perfectas para acompañarlas con un arroz blanco, con pasta o puré de patatas.
+
+Pero las mejores son las pantóndigas y las almóndigas de mi hermanita Ele.
+
+![{{ page.title }}](/images/posts/albondigas.jpg "{{ page.title }}"){: .markdown-image}

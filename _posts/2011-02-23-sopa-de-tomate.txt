@@ -1,0 +1,39 @@
+---
+title: Sopa de tomate
+tags: sopa, tomate
+date: 2011-02-23
+slug: sopa-de-tomate
+author: María Suau
+layout: post
+location: Málaga, España
+type: sopa
+---
+
+
+- Una cebolla grande.
+- Un diente de ajo.
+- 4 tomates maduros.
+- 1 litro de caldo de carne o pollo.
+- 2 cucharadas de tomate concentrado.
+- Una cucharadita de azúcar.
+- Sal y pimienta.
+- Un manojo de albahaca fresca.
+- Aceite de oliva.
+
+
+
+Pelamos y troceamos en juliana la cebolla y el ajo. En una olla alta ponemos un chorrito de aceite de oliva y los salteamos. 
+
+Pelamos y troceamos los tomates, los añadimos a la cebolla y salteamos unos minutos.
+
+Salpimentamos, añadimos el caldo, el tomate concentrado y el azúcar.
+
+Dejamos a fuego medio unos 30 minutos. 
+
+Añadimos la albahaca y trituramos fino con la minipimer.
+
+Lo ponemos de nuevo en el fuego que haga un “chup-chup” y retiramos.
+
+Se puede servir sola con unos picatostes o con pasta cocida. De todas las maneras, una sopa deliciosa y sanísima. Auténtica dieta mediterránea.
+
+![{{ page.title }}](/images/posts/sopa-de-tomate.jpg "{{ page.title }}"){: .markdown-image}

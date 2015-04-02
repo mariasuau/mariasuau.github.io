@@ -1,0 +1,29 @@
+---
+title: Pollo al limón
+tags: pollo
+date: 2012-01-16
+slug: pollo-al-limon
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+- 2 pechugas de pollo.
+- Harina de maíz fina para rebozar.
+- 2 cucharadas soperas de harina fina de maíz.
+- Sal y pimienta.
+- aceite de oliva.
+- Zumo de 3 limones.
+- Medio vaso de agua.
+- 2 cucharadas soperas de azúcar.
+
+Cortamos el pollo en tiras, salpimentamos y rebozar con la harina de maíz y lo freímos en aceite de oliva hasta que esté dorado (yo uso la actifree que no dora tanto pero se fríe con un par de cucharadas de aceite).
+
+Poner en una olla el zumo de limón con medio vaso de agua y las dos cucharadas de azúcar. Reducimos a la mitad y añadimos las dos cucharadas de harina de maíz disueltas en un poco de agua caliente (un chorrito es suficiente). Hervimos a fuego suave unos minutos hasta que espese.
+
+Servimos el pollo añadiendo la salsa de limón por encima. Se puede acompañar de un poco de arroz.
+
+Sencillo, rápido y muy rico. Perfecto para aprovechar esos deliciosos limones de la huerta de Coín.
+
+![{{ page.title }}](/images/posts/pollo-al-limon.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,28 @@
+---
+title: Tortas de maíz. Un desayuno muy enrollado
+tags: desayuno
+date: 2010-07-17
+slug: tortas-de-maiz-un-desayuno-muy-enrollado
+author: María Suau
+layout: post
+location: Málaga, España
+type: desayuno
+---
+
+
+
+- Tortas de maiz.
+- Lechuga.
+- Tomate.
+- Maiz.
+- Cebollino.
+- Pechuga de pavo.
+- Sal y aceite de oliva.
+
+Se humedecen las tortas con agua y se calientas unos 5 min en el horno, se rellenan con lechuga, tomate, maíz, cebollino[^fn1] fresco y pavo. Enrollar la torta.
+
+Perfecto para un desayuno diferente o una cena ligera. Está rico rico.
+
+[^fn1]: Se nota que tengo por casa un buen manojo de cebollino, que lo echo hasta en la sopa.
+
+![{{ page.title }}](/images/posts/tortas-de-maiz.jpg "{{ page.title }}"){: .markdown-image}

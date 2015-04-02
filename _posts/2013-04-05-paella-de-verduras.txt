@@ -1,0 +1,31 @@
+---
+title: Paella de verduras
+tags: arroz, paella, verduras
+date: 2013-04-05
+slug: paella-de-verduras
+author: María Suau
+layout: post
+location: Málaga, España
+type: arroz
+---
+
+
+Ingredientes:
+
+- 1 puerro
+- 2 zanahorias pequeñas
+- 1 calabacín
+- 2 alcachofas
+- una taza de arroz redondo
+- agua
+- aceite de oliva
+- sal
+- pimienta
+- azafrán molido (un pellizco o sobrecito)
+- 200gr de carne al gusto (opcional)
+
+Lavamos y troceamos la verdura. Incluida la alcachofa que deshojaremos bien, cortamos la punta y usaremos solo el corazón cortado en tiras finitas. En una paellera doramos el puerro con un chorrito de aceite de oliva, salamos la carne y la añadimos al puerro y sellamos. Ahora añadimos el resto de verduras y rehogamos. Añadomos una tazita de arroz. El doble de agua. Salpimentamos y añadimos el azafrán. Dejamos hacer a fuego medio- bajo hasta q el arroz esté en su punto, añadiendo agua si se seca demasiado pronto. Dejar reposar tapado 5 minutos.
+
+A disfrutar. Esta riquísimo, resulta ligero y digestivo.
+
+![{{ page.title }}](/images/posts/paella-de-verduras.jpg "{{ page.title }}"){: .markdown-image}

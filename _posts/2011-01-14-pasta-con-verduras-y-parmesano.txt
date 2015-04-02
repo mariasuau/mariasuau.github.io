@@ -1,0 +1,33 @@
+---
+title: Pasta con verduras y parmesano
+tags: pasta, sano
+date: 2011-01-14
+slug: pasta-con-verduras-y-parmesano
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+- Pasta al gusto.
+- Un calabacín.
+- Una cebolla grande.
+- Una zanahoria.
+- Una lata de tomate triturado de las grandes.
+- Una taza de vino blanco.
+- Sal, azúcar, aceite de oliva, pimienta, hierbas aromáticas al gusto (orégano, albahaca..).
+- Virutas de parmesano.
+
+
+Pelamos y troceamos en dados pequeños toda la verdura. En una olla la salteamos con un chorro de aceite de oliva y un poco de sal. Cuando la verdura esté tierna añadimos el tomate y el vino. Salamos con un buen pellizco de sal y añadimos ahora la misma cantidad de azúcar que de sal. 
+
+Dejamos unos 20 minutos a fuego bajo-medio (nº 5 aproximadamente).
+
+Añadimos las hierbas aromáticas y pimienta al gusto.
+
+Cocemos la pasta y la añadimos a la verdura.
+
+Al servir cada plato espolvoreamos con unas virutas de parmesano.
+
+![{{ page.title }}](/images/posts/pasta-con-verduras-y-parmesano.jpg "{{ page.title }}"){: .markdown-image}

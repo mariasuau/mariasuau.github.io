@@ -1,0 +1,32 @@
+---
+title: Salmón al limón con patatas
+tags: salmon, pescado, sano
+date: 2011-01-20
+slug: salmon-al-limon-con-patatas
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+- Lomo de salmón fresco, con una pieza grande llega para dos personas.
+- Zumo de dos limones.
+- Un chorro de tabasco.
+- Sal y pimienta.
+- 2 patatas medianas.
+- Aceite de oliva.
+
+Quitar las espinas del salmón y cortarlo en trozos de 1,5 cm de grosor. 
+
+En un cuenco ponemos el zumo de limón, un chorro de tabasco, una punta de sal y pimienta al gusto. Añadimos el salmón, lo tapamos y lo dejamos marinar en la nevera minimo 30 minutos. Removeremos un par de veces.
+
+Pelamos las patatas y las cortamos en laminas finas, las ponemos en una fuente para horno previamente untada con aceite de oliva. Salpimentamos. Horneamos a 250º hasta que las patatas estén doradas, normalmente unos 20-25 min. 
+
+Ahora sacamos la fuente del horno y ponemos sobre las patatas el salmón escurriéndole la salsa. Horneamos de nuevo unos 8 minutos a 200º. 
+
+Servir y comer. Está muy muy rico y queda muy jugoso. Si no queréis que quede fuerte a limón escurrir bien el salmón antes de meterlo en el horno.
+
+Sanísimo y facilísimo.
+
+![{{ page.title }}](/images/posts/salmon-al-limon.jpg "{{ page.title }}"){: .markdown-image}

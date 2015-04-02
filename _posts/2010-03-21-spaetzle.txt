@@ -1,0 +1,37 @@
+---
+title: Spätzle
+tags: spätzle, horno, alemana, pasta
+date: 2010-03-21
+slug: spaetzle
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+
+Es una pasta alemana hecha con huevo (desde hace poco se vende en Carrefour).
+
+
+- 250 gr Spätzle
+- medio paquete de bacon cortado a tiras finas.
+- Una cebolla dulce, cebolleta o la que más os guste troceada fina.
+- Una cucharada de Bovil.
+- Un chorro de caldo de carne.
+- Queso para gratinar (emmental, mezcla de varios quesos, al gusto).
+
+Cocer los spätzle siguiendo las instrucciones del fabricante (unos 20 min).
+
+Dorar en una sarten la cebolla y cuando esté bien hecha añadir el bacon y dorarlo a fuego fuerte hasta que quede crujiente.
+
+Añadir a la sarten una cucharada de bovil y un chorro de caldo, cuando el bovil se derrita añadir los spätzle y mezcar bien hata que el caldo desaparezca quedando bien mezclado con la pasta.
+
+Poner en un recipiente para horno, cubrir de queso y gratinar en el horno (250º en modo gratinar vigilando que no se queme).
+
+Este plato está inspirado en uno que probé en mi luna de miel en el Titisee. 
+
+Sírvase acompañado de un buen vino blanco, como un Riesling o un Pompejaner.
+
+![{{ page.title }}](/images/posts/spaetzle-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/spaetzle-2.jpg "{{ page.title }}"){: .markdown-image}

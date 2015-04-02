@@ -1,0 +1,29 @@
+---
+title: Humus
+tags: humus, legumbres, garbanzos
+date: 2010-08-22
+slug: humus
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+
+- Un bote de 500 gr de garbanzos cocidos.
+- Zumo de 1/2 limón.
+- 3 cucharadas soperas de taxini, pasta de sésamo o tahini[^fn1].
+- Sal un pellizco y 2 cucharadas soperas de aceite de oliva.
+- Agua.
+
+
+[^fn1]: El taxini se compra en el Rincón del Gourmet de El Corte Inglés.
+
+
+Escurrir y enjuagar los garbanzos. En el vaso de la minipimer ponemos todos los ingredientes y batimos. Insistir porque cuesta batir los garbanzos. En principio añadiremos un chorrito de agua e iremos añadiendo más si nos hace falta hasta conseguir la consistencia que nos guste, más espeso o más ligero. A mí me gusta espeso para comerlo con crudités de zanahoria.
+
+Se puede servir con un chorro de aceite de oliva y un poco de pimentón por encima.
+
+Sencillamente delicioso, rápido, fácil y exótico. Las visitas alucinarán.
+
+![{{ page.title }}](/images/posts/humus.jpg "{{ page.title }}"){: .markdown-image}

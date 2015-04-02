@@ -1,0 +1,34 @@
+---
+title: Spätzle con knacker
+tags: spätzle, salchichas, pasta, alemana
+date: 2010-06-10
+slug: spaetzle-con-knacker
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+- Spätzle.
+- Una cebolla grandecita[^fn1].
+- Tomate frito.
+- Salchichas ahumadas tipo knacker.
+- Vino blanco.
+- Sal y aceite oliva.
+
+
+En una olla cocemos los spätzle en agua abundante con sal según indican las instrucciones del fabricante.
+
+Pelamos y picamos la cebolla en daditos pequeños, la sofreimos con un chorro de aceite de oliva y sal en una sartén.
+
+A continuación, cortamos en rodajas las salchichas y las salteamos junto con la cebolla.
+
+Añadiremos ahora el tomate frito con un buen chorro de vino blanco y dejamos que haga un chup-chup hasta que se evapore el alcohol del vino.
+
+Añadir la pasta y saltear. Servir. Comer. Y dormir una buena siesta que es lo que apetece después de un plato así.
+
+[^fn1]: Las cantidades a ojímetro y al gusto.
+
+![{{ page.title }}](/images/posts/spaetzle-con-knacker-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/spaetzle-con-knacker-2.jpg "{{ page.title }}"){: .markdown-image}

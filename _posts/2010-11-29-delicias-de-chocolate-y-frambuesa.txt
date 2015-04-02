@@ -1,0 +1,39 @@
+---
+title: Delicias de chocolate y frambuesa
+tags: galletas, chocolate, dulce
+date: 2010-11-29
+slug: delicias-de-chocolate-y-frambuesa
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+
+- 125 gr de mantequilla sin sal.
+- 125 gr de azúcar blanco.
+- Una cucharada de postre de esencia de vainilla.
+- 190 gr de harina blanca.
+- 40 gr cacao en polvo puro.
+- 20 cc de leche entera (dos cucharadas soperas).
+- Mermelada de frambuesa.
+
+
+Precalentamos el horno a 180º.
+
+En un bol grande mezclamos la mantequilla reblandecida pero no derretida con el azúcar, usamos la batidora de aspas. Añadimos la vainilla y mezclamos. Ahora con un colador fino tamizamos la harina y el cacao sobre la mezcla anterior. Añadimos la leche y mezclamos bien con una espátula de madera hasta obtener una masa homogenea, blanda pero que no se pegue demasiado a los dedos. 
+
+Preparamos la bandeja de horno cubriéndola con un papel parafinado. 
+
+Tomamos una porción de masa con una cuchara sopera y hacemos una bolita, la aplastamos un poco y con el dedo pulgar le hacemos un hueco en el centro.
+
+Ponemos una puntita de mermelada en el hueco.
+
+Colocamos las galletas sobre la bandeja del horno con una cierta separación (medio cm aproximadamente) entre cada una. Horneamos entre 15-20 minutos. Como siempre, vigilarlas que no se quemen, cada horno es diferente, y según el tamaño de las galletas les llevará un poco más o menos.
+
+Pasado este tiempo las sacamos del horno y las dejamos 5 min en la misma bandeja y luego las pasamos a una rejilla para enfriar. Esto es la teoría, yo normalmente como uso la rejilla del horno para meter más galletas, las enfrío en la misma bandeja y no pasa nada de nada.
+
+“Pequeños bocados que me dejan el recuerdo de una sonrisa de agradecimiento y un pulgar de aprobación”.
+
+![{{ page.title }}](/images/posts/galletas-de-chocolate-y-mermelada.jpg "{{ page.title }}"){: .markdown-image}

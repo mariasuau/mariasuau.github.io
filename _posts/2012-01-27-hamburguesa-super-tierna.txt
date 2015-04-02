@@ -1,0 +1,32 @@
+---
+title: Hamburguesa super tierna
+tags: hamburguesa, pan
+date: 2012-01-27
+slug: hamburguesa-super-tierna
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+- Medio kg de carne picada de ternera.
+- Un huevo.
+- Dos rebanadas de pan bimbo.
+- Un chorro de leche.
+- Dos cucharadas soperas de polvo de mostaza (o mostaza normal si no tenemos).
+- Sal y pimienta.
+- Un bollo de pan tipo mollete o campero.
+- Tomate en rodajas, lechuga, queso en lonchas tipo havarti o edam.
+
+
+En un bol ponemos la carne picada, añadimos el huevo, la sal y pimienta y la mostaza. Mojamos el pan en leche y sin que chorree demasiado migamos el pan mojado en la carne. Mezclamos con las manos hasta que todo quede homogéneamente ligado. Ahora hacemos bolas de carne con las manos las chafamos y las envolvemos en film transparente. Las aplastamos un poco más y le damos forma más o menos redondeada. Así las podemos congelar.
+
+Aviso: quedan muy tiernas y se rompen con facilidad. Al manipularlas tener un poco de cuidado. Si están muy pegajosas puedes añadir un poco de harina o pan rayado por encima.
+
+En una plancha antiaderente ponemos un chorrito de aceite de oliva y calentamos, cuando esté bien caliente ponemos la hamburguesa y bajamos el fuego a media intensidad. La hacemos bien por los dos lados, teniendo cuidado al voltearlas para que no se rompan.
+
+Una vez hechas las hamburguesas solo tenemos que montar el pan como más nos guste: con tomate, lechuga, queso, mostaza, ketchup, cebolla, mahonesa, bacon, huevo….. Vamos como más os guste. Yo prefiero algo sencillo con un toque de queso, tomate y lechugas variadas, usando un pan calentito y bien tierno.
+
+Delicioso! Le da mil vueltas a las hamburguesas grasientas que se comen por ahí. Resultan ligerísimas y sabrosísimas. A disfrutarlas.
+
+![{{ page.title }}](/images/posts/hamburguesa-tierna.jpg "{{ page.title }}"){: .markdown-image}

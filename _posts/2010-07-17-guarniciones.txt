@@ -1,0 +1,43 @@
+---
+title: Guarniciones
+tags: patatas, tomates, guarnición
+date: 2010-07-17
+slug: guarniciones
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+**Patatas asadas**
+
+- Patatas pequeñas.
+- Sal, pimienta y aceite oliva.
+
+
+Se lavan las patatas con agua y jabón, dejando la piel. Cortamos las patatas por la mitad y les hacemos con la punta de un cuchillo varias lineas cruzadas. Colocamos las patatas en una fuente para horno y salpimentamos, añadimos un chorro de aceite sobre las patatas y a hornear a unos 250º hasta que queden doradas. Si son pequeñas las patatas estarán en 20min, pero si son grandes puede llevar más tiempo.
+
+**Tomates asados**
+
+- Tomates maduros.
+- Ajo, 2 dientes.
+- Pan rayado.
+- Perejil picado.
+- Sal y aceite de oliva.
+
+Limpiamos los tomates, los partimos por la mitad y los colocamos en una fuente para horno con la cara cortada hacia arriba. Salamos, añadimos ajo picado o en laminas, un pellizco de perejil picado y espolvoreamos pan rayado. Hornear a 350º hasta que los tomates estén muy blandos, algo dorados, osea, como en la foto que para algo la pongo.
+
+
+**Mazorca de maiz asada**
+
+- Mazorca de maiz cocida.
+- Sal y aceite oliva.
+
+Cogemos la mazorca le ponemos un poco de sal y aceite y al horno hasta que se dore.
+
+Todo muy rico. Los tomates asados van genial con un arroz blanco. Las patatas están buenas solas o acompañadas, pero siempre te quedas con ganas de más.
+
+![{{ page.title }}](/images/posts/guarniciones-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/guarniciones-2.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/guarniciones-3.jpg "{{ page.title }}"){: .markdown-image}

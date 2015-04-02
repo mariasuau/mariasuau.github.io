@@ -1,0 +1,25 @@
+---
+title: Manzanas asadas
+tags: manzanas, horno
+date: 2010-07-08
+slug: manzanas-asadas
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+- Manzanas tipo golden.
+- Azúcar moreno.
+- Miel.
+- Vino dulce tipo Pedro Ximenez.
+
+
+Ponemos en una fuente de horno las manzanas, les cortamos el culo y las colocamos con el rabo hacia abajo (jajaja suena a receta porno).
+
+Sobre cada una de ellas ponemos una cucharada de azúcar moreno y un buen chorro de miel. Las regamos con un buen chorro de Pedro Ximenez y al horno hasta que tengan el aspecto de la foto, arrugaditas, blanditas y doraditas.
+
+A disfrutar que son dos días.
+
+![{{ page.title }}](/images/posts/manzana-asada.jpg "{{ page.title }}"){: .markdown-image}

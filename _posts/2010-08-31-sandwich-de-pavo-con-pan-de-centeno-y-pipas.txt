@@ -1,0 +1,24 @@
+---
+title: Sandwich de pavo con pan de centeno y pipas
+tags: pan, pavo, sano, dieta
+date: 2010-08-31
+slug: sandwich-de-pavo-con-pan-de-centeno-y-pipas
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+
+- Pan de centeno con pipas.
+- Tomate.
+- Fiambre de pavo.
+- Lechugas variadas.
+- Sal y aceite de oliva.
+
+
+Cortamos dos rebanadas de pan y tostamos ligeramente. Cortamos el tomate a rodajas finas añadimos sal y aceite. Montamos el sanwich con una capa de pan, después tomate, el pavo y la lechuga a la que añadimos un chorrito de aceite. Tapamos con el otro trozo de pan y a comer!
+
+A veces me sorprendo de lo sencillo que es hacer un buen bocadillo y lo sano que puede llegar a ser. Que aporveche!!!!
+
+![{{ page.title }}](/images/posts/sandwich-de-pavo-con-pan-de-pipas.jpg "{{ page.title }}"){: .markdown-image}

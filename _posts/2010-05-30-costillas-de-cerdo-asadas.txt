@@ -1,0 +1,26 @@
+---
+title: Costillas de cerdo asadas
+tags: carne, cerdo, horno
+date: 2010-05-30
+slug: costillas-de-cerdo-asadas
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+
+- Una tira de costillar de cerdo.
+- Un puñado de sal gorda.
+- Hierbas al gusto (yo he usado una mezcla ibérica que venden en Carrefour).
+- Aceite de oliva.
+- Limpiar el exceso de grasa de la tira de costillar, salar y aderezar con las hiervas. Poner la carne en una fuente de horno y añadir un chorrito de aceite de oliva (si la fuente tiene rejilla la grasa cae y la carne queda más desgrasada).
+
+Hornear unos 30 min a 200º o hasta que la carne quede dorada y al cortarla no esté rosa.
+
+Se puede acompañar de patatas, setas plancha, pimientos fritos, etc… echarle imaginación.
+
+Ojo!!! cuidado con el colesterol!!!
+
+![{{ page.title }}](/images/posts/costillas-de-cerdo-asadas.jpg "{{ page.title }}"){: .markdown-image}

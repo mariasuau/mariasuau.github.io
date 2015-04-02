@@ -1,0 +1,56 @@
+---
+title: Makis
+tags: sushi, makis, japonesa
+date: 2010-05-23
+slug: makis
+author: María Suau
+layout: post
+location: Málaga, España
+type: oriental
+---
+
+
+- 250 gr de arroz para sushi.
+- 2 cucharadas soperas de vinagre de arroz.
+- 2 cucharadas soperas de azúcar.
+- Algas nori.
+- Un aguacate.
+- Palitos de cangrejo.
+- Unas tiras de calabacín.
+- Fiambre de pavo o jamón cocido.
+- Tomate maduro cortado en tiras.
+- Salsa soja.
+- Wasabi.
+- Esterilla de bambú.
+
+Hay que ir con tiempo porque debe enfriar el arrroz. Primero enjuagamos en un colador el arroz, lo ponemos en remojo 20 min y lo volvemos a lavar. Cocer el arroz en 400 ml de agua hirviendo con sal durante 10 minutos. Debe absorber todo el agua. Retiramos del fuego y dejamos enfriar.
+
+Mezclamos el vinagre de arroz con el azúcar, calentamos un poco para que se diluya el azucar y lo añadimos al arroz, mezclamos bien.
+
+Preparamos la esterilla de bambú y ponemos un alga nori sobre ella con la parte bonita y brillante hacia abajo. 
+
+Cogemos una buena bola de arroz y la esparcimos por toda la superficie del alga, incluidos los bordes, salvo el extremo superior que dejaremos un centímetro sin cubrir para que al enrollarlo se pegue y selle el rollito. Debe quedar una capa relativamente fina de arroz para poder enrollarlo bien. 
+
+Poner los ingredientes en el centro: 
+
+- **Estilo california:** aguacate + palito cangrejo + calabacín.
+- **Estilo mediterraneo:** aguacate + tomate + pavo.
+
+Mojaremos con el dedo el borde superior del alga, el borde que dejamos sin cubrir de arroz.
+
+Enrollamos el alga con ayuda de la esterilla. Apretar bien.
+
+Cortar el rollito en trozos de un cm ancho más o menos.
+
+Servir con salsa de soja para mojar y wasabi.
+
+Los ingredientes del centro del maki se pueden poner al gusto: salmón ahumado, jamón serrano, mango, melón, tortilla, pepino…. solo hay que ponerle imaginación. 
+
+Mejor si se come con palillos.
+
+En youtube hay unos [how to's](http://www.youtube.com/watch?v=IGF_5QR9LI8&feature=channel) que nos dan una idea de cómo hacerlo.
+
+![{{ page.title }}](/images/posts/makis-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/makis-2.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/makis-3.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/makis-4.jpg "{{ page.title }}"){: .markdown-image}

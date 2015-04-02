@@ -1,0 +1,32 @@
+---
+title: Arroz con vieiras
+tags: arroz, soja, teriyaki
+date: 2011-12-03
+slug: arroz-con-vieiras
+author: María Suau
+layout: post
+location: Málaga, España
+type: arroz
+---
+
+
+- Una taza de arroz largo.
+- Un calabacín.
+- Una cebolla.
+- Una zanahoria.
+- 3-4 vieiras por persona.
+- Salsa teriyaki o soja.
+- Aceite de oliva y sal.
+- Comino o ajónjoli para decorar.
+
+Pelar y cortar la verdura en daditos. Saltear las verduras en una sartén con aceite de oliva y un pellizco de sal. Cuando estén doradas y tiernas retirar y reservar.
+
+Cocer el arroz en tres tazas de agua durante 15 minutos. Cuando esté cocido lavarlo y escurrirlo.
+
+Saltear la verdura con el arroz.
+
+Salpimentamos las vieiras. Ponemos una sartén a fuego fuerte. Hacemos las vieiras en la plancha por las dos caras durante 3-4 minutos.
+
+Emplatamos poniendo una cama de arroz, añadimos la salsa de soja o teriyaki al gusto y colocamos las vieiras sobre el arroz, decoramos con un poco de ajonjoli y un chorro de aceite de oliva.
+
+![{{ page.title }}](/images/posts/arroz-con-vieiras.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,41 @@
+---
+title: Goulasch mit Semmelknödeln
+tags: carne, pan, goulasch, estofado
+date: 2010-12-11
+slug: goulasch-mit-semmelknoedeln
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+
+- Dos piezas de morcillo.
+- 6 cebolletas tiernas, o 3 cebollas grandes.
+- 2 zanahorias grandes.
+- Dos cucharadas de tomate frito.
+- Una lata de cerveza.
+- Medio vaso de caldo de pollo.
+- Una cucharada sopera de harina.
+- Sal, aceite de oliva, pimienta negra molida.
+
+
+
+Pelamos las cebollas y las zanahorias. Las cebollas las cortamos en tiras finas, y las zanahorias en dados pequeños.
+
+En una olla grande, ponemos un buen chorro de aceite de oliva. Añadimos la verdura y la pochamos bien con el fuego medio-alto.
+
+Mientras limpiamos la carne de restos de grasa o ternilla y la troceamos en dados de unos 2x2 cm. Salamos.
+
+Cuanto tengamos la verdura blandita, añadimos un buen chorro de aceite y subimos el fuego. Echamos la carne y la doramos para cerrarle el poro.
+
+Una vez dorada la carne, añadimos la harina, la cerveza, las dos cucharadas de tomate, el medio vaso de caldo, un pellizco de sal y pimienta al gusto. Mezclamos bien y dejamos cocer durante 2 horas a fuego bajo (nº3). 
+
+Vigilar de vez en cuando y si vemos que se nos seca añadimos un poco más de caldo.
+
+Queda tiernísimo. A mi me quedó algo más rojo porque le puse tomate concentrado, no lo recomiendo queda mejor con dos cucharadas de tomate frito normal, no concentrado.
+
+Los semmelknodel son unas albóndigas de miga de pan, de origen alemán si no me equivoco. La verdad es que no tengo ni idea de cómo hacerlas, así que un día compré en el Carrefour unos que viene precocinados y solo hay que remojarlos, hervirlos y servirlos. Quedan muy buenos, pero eso sí ganan mucho con un buen guiso con mucha salsa.
+
+![{{ page.title }}](/images/posts/goulash.jpg "{{ page.title }}"){: .markdown-image}

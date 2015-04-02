@@ -1,0 +1,21 @@
+---
+title: Escalibada
+tags: horno, berenjenas
+date: 2010-08-22
+slug: escalibada
+author: María Suau
+layout: post
+location: Málaga, España
+type: ensalada
+---
+
+
+- Pimiento rojo.
+- Berenjena.
+- Sal y aceite.
+
+Lavar la verdura, envolverla en papel vegetal y por fuera en papel de aluminio, sellandolo como para hacer un papillote y hornear a 250º hasta que la verdura esté blanda. Aproximadamente media hora.
+
+Dejar enfriar, pelar la verdura y despepitar el pimiento, guardarla en un tuper si no se va a consumir en el momento. Al servir añadir sal y aceite. Se puede tomar frio o caliente, con pasta, con arroz o como guarnición de carne o pescado.
+
+![{{ page.title }}](/images/posts/escalibada.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,36 @@
+---
+title: Ensalada de lentejas
+tags: ensalada, lentejas, legumbres,
+date: 2010-05-25
+slug: ensalada-de-lentejas
+author: María Suau
+layout: post
+location: Málaga, España
+type: ensalada
+---
+
+
+
+- Lentejas cocidas o de cocción rápida.
+- Un tomate maduro.
+- Una cebolla tierna pequeña.
+- 6-8 aceitunas cortadas en laminas.
+- Medio calabacín cortado en tiras pequeñas.
+- Vinagre, aceite oliva.
+- 1 cucharada de mostaza tipo dijon. 
+- Cebollino fresco picado.
+- Canónigos y rúcula.
+
+Cocemos las lentejas en la olla exprés (7-8 min desde que echa vapor) con agua, sal y una hoja de laurel. También podemos comprar un bote de lentejas ya cocidas. 
+
+Lavamos las lentejas con agua fría.
+
+Cortamos el tomate, cebolleta, calabacín y aceitunas y mezclamos con las lentejas.
+
+Prepara una vinagreta con 2 unidades de aceite por una de vinagre + una cucharada mostaza y cebollino picado. Aliñamos las lentejas.
+
+Ponemos una base de canónigos y rúcula y sobre ella una ración de lentejas.
+
+Rápida, facil, fresca y deliciosa.
+
+![{{ page.title }}](/images/posts/ensalada-de-lentejas.jpg "{{ page.title }}"){: .markdown-image}

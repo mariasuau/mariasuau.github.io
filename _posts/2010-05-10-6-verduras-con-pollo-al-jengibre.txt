@@ -1,0 +1,36 @@
+---
+title: 6 verduras con pollo al jengibre
+tags: pollo, verduras, sano, dieta
+date: 2010-05-10
+slug: 6-verduras-con-pollo-al-jengibre
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- Una bandeja de 500 gr de pollo o pavo picado.
+- Una cebolla grande.
+- Un calabacín.
+- Una berenjena.
+- Una coliflor mini (o unas ramitas de coliflor normal).
+- 5 esparragos.
+- Una  alcachofa.
+- Jengibre fresco.
+- Ajonjolí.
+- Salsa de soja.
+- Vino blanco.
+- Aceite de oliva.
+- Sal.
+
+
+Pelar y cortar todas las verduras en tiras de un 1,5 cm largo x  0,5 cm ancho aproximadamente, la alcachofa hay que deshojarla y cortarle la punta y luego laminar el corazón. Saltear en una sartén todas las verduras juntas con aceite de oliva y un poco de sal. Cuando estén doradas pero aún algo tiesas añadir la carne de pollo y  desacerla en la sartén con una espátula o tenedor de madera mientras la doramos con el fuego fuerte y un poco más de aceite.
+
+Una vez dorada la carne, bajamos el fuego y añadimos un chorro de vino blanco, un chorro de salsa de soja y una puntita de jengibre rallado (se pela y ralla un trozo de la raíz). Salteamos bien y dejamos reducir el vino y la soja. 
+
+Añadir ajonjolí para decorar.
+
+Se puede servir sólo o estilo wok con arroz o tallarines.
+
+![{{ page.title }}](/images/posts/6-verduras-con-pollo-al-jengibre.jpg "{{ page.title }}"){: .markdown-image}

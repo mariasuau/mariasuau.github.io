@@ -1,0 +1,31 @@
+---
+title: Butifarra con setas y esparragos
+tags: Butifarra, carne, verdura
+date: 2010-05-30
+slug: butifarra-con-setas-y-esparragos
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- Una butifarra por persona
+- Una bandeja de setas Pleurotus Ostreatus.
+- Un manojo de esparrago triguero.
+- Una patata mediana por persona.
+- Sal.
+- Aceite oliva.
+- Ajo en polvo.
+- Pimienta.
+ 
+
+Meter la butifarra en el horno unos 20 minutos a 200º o hasta que cambie de color y se dore.
+
+Hacemos las setas y los espárragos a la plancha: en una plancha poner un poco de aceite de oliva y calentar. Cuando la plancha está caliente ponemos las setas espolvoreando sal y ajo en polvo. También ponemos los esparragos y les añadimos sal. Los hacemos a la plancha hasta que estén bien hechos.
+
+Metemos las patatas lavadas en el microondas unos 8 minutos o hasta que la patata esté blanda. la pelamos y la cortamos por la mitad haciéndole unas lineas en la superficie con el cuchillo, y añadimos sal, pimienta y aceite oliva.
+
+Emplatamos y nos lo comemos.
+
+![{{ page.title }}](/images/posts/butifarra.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,44 @@
+---
+title: Atún con tomate
+tags: atún, sano, dieta, pescado
+date: 2010-07-08
+slug: atun-con-tomate
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+- Lomos de atún (1-2 por persona).
+- Dos cebollas grandes cortada en tiras.
+- Tomate frito, 1-2 bricks pequeños.
+- Vino blanco un brick pequeño (200 ml aprox).
+- Huevo duro. 
+- Sal y aceite de oliva.
+
+
+**Versión light y disociada**
+
+1. Salar los lomos de salmón y hacerlos vuelta y vuelta rápida a la plancha y reservar
+
+1. Pochar la cebolla en un olla con un chorro de aceite de oliva y un poco de sal.
+
+1. Añadir el atún a la cebolla, junto con el tomate frito y un brick pequeño de vino blanco.
+
+1. Dejar que haga un chup-chup para que el atún termine de hacerse y se evapore un poco el alcohol del vino, unos 5 minutos aprox.
+
+1. Servir con un huevo duro cortadito en cuartos.
+
+
+
+**Versión original, no light**
+
+1. Enharinar el atún y freirlo en aceite para dorarlo pero que quede crudo por dentro.
+
+1. Pochar la cebolla con aceitito y añadir el atún, el tomate frito y el vino.
+
+1. Servir con el huevo duro y pimientos fritos.
+
+1. Mojar mucho pan en la salsita.
+
+![{{ page.title }}](/images/posts/atun-con-tomate.jpg "{{ page.title }}"){: .markdown-image}

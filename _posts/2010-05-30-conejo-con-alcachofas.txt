@@ -1,0 +1,36 @@
+---
+title: Conejo con alcachofas
+tags: carne, conejo, verdura, alcachofas 
+date: 2010-05-30
+slug: conejo-con-alcachofas
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+
+- Paletillas de conejo (2-3 por persona).
+- Una cebolla grande o dos medianas.
+- 3 alcachofas o media bolsa de alcachofas baby congeladas del mercadona.
+- Una lata pequeña de tomate triturado.
+- Un brick pequeño de 200 cc de vino blanco.
+- Media taza o vaso de caldo de carne.
+- Una cucharada de agar-agar o harina para espesar la salsa.
+- Aceite de oliva.
+- Sal y pimienta.
+
+En una olla grandecita poner un buen chorro de aceite de oliva y pochar la cebolla.
+
+Salpimentar las paletillas de conejo y añadirlas a la olla y dorarlas con un poco más de aceite.
+
+Limpiar las alcachofas quitando las hojas externas y cortando la punta dejando prácticamente el corazón de la alcachofa, o bien directamente ponerle alcachofa congelada que queda muy bien también.
+
+Añadir el tomate, el vino blanco, el caldo, la harina o el agar y salpimentar.
+
+Dejar cocer hasta que reduzca la salsa y la carne esté tierna, por lo menos 35-40 min.
+
+Está buenísimo, se puede hacer con pollo en lugar de conejo. Muy sana y fácil de hacer. Apto para dietas disociadas.
+
+![{{ page.title }}](/images/posts/conejo-con-alcachofas.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,31 @@
+---
+title: Dorada a la sal
+tags: dorada, pescado, horno, sano, dieta
+date: 2010-10-02
+slug: dorada-a-la-sal
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+
+- Una dorada por persona.
+- Un paquete de sal gorda.
+- Dos hojas de laurel.
+- Aceite de oliva.
+
+
+Ponemos sobre una fuente para horno una base de sal gorda, humedecerla un poco para que se forme una costra dura. Sobre ésta ponemos las doradas enteras y limpias, sin cortes sobre los lomos. Encima de cada dorada ponemos una hoja de laurel.
+
+Cubrimos con sal gorda y la humedecemos.
+
+Metemos en el horno a unos 220º unos 30 minutos, depende del tamaño de la dorada.
+
+Cuando vemos que la costra de sal se pone algo dorada, teñida por los jugos del pescado ya estará hecha. 
+
+Rompemos la costra por el lateral del pescado, llevándonos la piel. Sacamos los lomos de la dorada y los servimos limpios con un chorrito de aceite de oliva.
+
+![{{ page.title }}](/images/posts/dorada-a-la-sal-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/dorada-a-la-sal-2.jpg "{{ page.title }}"){: .markdown-image}

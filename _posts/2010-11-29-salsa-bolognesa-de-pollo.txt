@@ -1,0 +1,36 @@
+---
+title: Salsa boloñesa de pollo
+tags: salsa, pollo
+date: 2010-11-29
+slug: salsa-bolognesa-de-pollo
+author: María Suau
+layout: post
+location: Málaga, España
+type: pasta
+---
+
+
+
+- Una bandeja de carne de pollo picada.
+- Una cebolla grande.
+- Una zanahoria grande.
+- Una lata grande de tomate triturado.
+- Un brick de vino blanco pequeño, de unos 200cc.
+- Un puñado de aceitunas negras cortadas en láminas.
+- Tres tomates secos en aceite.
+- Albahaca.
+- Sal, aceite y una cucharadita de azúcar.
+
+
+Troceamos la cebolla y la zanahoria en dados pequeños.
+
+En una olla grande y alta ponemos un chorro de aceite y pochamos la verdura. Añadir un pellizco de sal. Cuando ya está blanda la verdura añadimos un buen chorro de aceite con el fuego fuerte y añadimos la carne y la doramos. Ahora bajamos el fuego, a fuego medio, añadimos la lata de tomate, el vino, las aceitunas y los tomates en aceite troceados. Ponemos una buena pizca de sal, el azúcar (quita la acidez al tomate) y la albahaca. Dejamos cocer a fuego medio una media hora, hasta que la salsa reduzca.
+
+Servir con pasta larga o corta, con un poco de mozarella fresca.
+
+Muy rico y admite otros tipos de verdura como calabacín o berenjena. 
+
+A disfrutarlo.
+
+![{{ page.title }}](/images/posts/bolognesa.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/bolognesa1.jpg "{{ page.title }}"){: .markdown-image}

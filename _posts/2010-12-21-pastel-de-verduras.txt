@@ -1,0 +1,34 @@
+---
+title: Pastel de verduras
+tags: pastel, verduras, sano
+date: 2010-12-21
+slug: pastel-de-verduras
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- Una lámina de pasta brisa o de hojaldre.
+- 200 cc leche.
+- 4 huevos.
+- 2 alcachofas.
+- Un calabacín.
+- Una cebolla.
+- Un puñado de queso para gratinar.
+- Sal y aceite de oliva.
+
+
+Limpiamos y pelamos la verdura, la alcachofa la pelamos bien dejando solo el corazón. Cortamos a taquitos de medio cm el calabacín y la cebolla, y en láminas finas la alcachofa. Salteamos la verdura en sartén con un poco de sal y aceite hasta que quede blanda, también podemos freírla y escurrirle bien el aceite. 
+
+Ahora colocamos en un bol los huevos con la leche y batimos bien, añadimos una pizca de sal. Añadimos la verdura y mezclamos bien para que toda quede impregnada con el líquido.
+
+En una fuente para horno colocamos papel vegetal para horno y extendemos la lámina de pasta brisa. La pinchamos con un tenedor y echamos la verdura dentro. Espolvoreamos un poco de queso para gratinar por encima. 
+
+Horneamos a 200º unos 25 minutos, hasta que la masa quede dorada, el queso gratinado y la verdura cuajada.
+
+Está buenísima, es rápida y admite todas las variaciones que queramos, cambiando las verduras o añadiendo bacon, jamón, o lo que se nos ocurra. Pues a disfrutar que son dos días!!!
+
+![{{ page.title }}](/images/posts/pastel-de-verduras-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/pastel-de-verduras-2.jpg "{{ page.title }}"){: .markdown-image}

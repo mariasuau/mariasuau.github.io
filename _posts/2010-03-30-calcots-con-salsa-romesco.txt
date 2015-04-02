@@ -1,0 +1,38 @@
+---
+title: Calçots con salsa romesco
+tags: barbacoa, romesco, salsa, calçots
+date: 2010-03-30
+slug: calcots-con-salsa-romesco
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+
+- Calçots (unos 10-15 por persona).
+- 200 gr almendra tostada sin piel.
+- 2 tomates maduros.
+- 5 dientes de ajo (3 asados y 2 crudos).
+- Una ñora y una guindilla.
+- Un vaso de aceite (unos 200 cc).
+- Un chorro vinagre.
+- Sal.
+
+
+Asar los tomates, 3 dientes de ajo y la ñora en el horno o en la plancha.
+
+Pelar los tomates y los ajos.
+
+Meter todos los ingredientes en la batidora y batirlo.
+
+Preparar una buena barbacoa con fuego abundante y asar los calçots hasta que queden negros por fuera, envolverlos en papel de periódico una vez hechos en tandas de 20 en 20, cuando estén todos hechos sacarlos del papel y servir.
+
+Comerlos con babero, pelando el calçot quitando la primera capa requemada y mojando en la salsa abundantemente.
+
+Disfrutar en buena compañía.
+
+![{{ page.title }}](/images/posts/calcots-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/calcots-2.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/calcots-3.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/calcots-4.jpg "{{ page.title }}"){: .markdown-image}

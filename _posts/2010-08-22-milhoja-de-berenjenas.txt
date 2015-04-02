@@ -1,0 +1,31 @@
+---
+title: Milhoja de berenjena
+tags: berenjenas, horno
+date: 2010-08-22
+slug: milhoja-de-berenjenas
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- Dos berenjenas grandes.
+- Salsa de tomate.
+- Bacon o panceta.
+- Cebolla troceada.
+- Mozarella de búfala cortada en rodajas.
+- Orégano.
+
+
+Lavar las berenjenas, cortar en rodajas de unos 2-3 mm. Hornearlas en una bandeja para horno, sobre papel vegetal, con sal y un poco de aceite. A 250º 20 min o hasta que esté dorada y blanda.
+
+En una sartén, dorar la cebolla y el bacon. Merzclarlo con la salsa de tomate.
+
+En una fuente apta para horno poner en este orden: tomate-berenjena-tomate-mozarella-oregano-berenjena-tomate-mozarella-oregano-…..-berenjena-tomate.
+
+Hornear a 250º 5 minutos todo junto.
+
+Si estamos perezosos o no tenemos tiempo, una opción rápida es comprar una salsa boloñesa ya hecha y sólo tendremos que hornear la berenjena y montarlo.
+
+![{{ page.title }}](/images/posts/milhoja-de-berenjena.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,26 @@
+---
+title: Macedonia tropical
+tags: macedonia, frutas
+date: 2010-08-31
+slug: macedonia-tropical
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+
+- Medio melón francés.
+- Un mango.
+- Un melocotón.
+- Piña natural (un tercio de una piña o unas 4 rodajas).
+- Zumo de piña.
+- Zumo de limón.
+
+
+Cortamos a daditos toda la fruta previamente pelada. El melón lo podemos hacer a bolitas si tenemos ese cacharro[^fn1] que sirve para hacer bolitas con la fruta y que no tengo ni idea de como se llama. Lo ponemos todo en un cuenco grande, añadimos zumo de piña hasta cubrir la fruta y un chorro de limón (yo uso el de Mercadona ya exprimido.
+
+[^fn1]: Gracias a google he averiguado que ese cacharro se llama “vaciador de melón”.
+
+![{{ page.title }}](/images/posts/macedonia-tropical.jpg "{{ page.title }}"){: .markdown-image}

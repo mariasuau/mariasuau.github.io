@@ -1,0 +1,35 @@
+---
+title: Pitas mediterráneas
+tags: pita, tomates, ensalada, sano, dieta
+date: 2010-07-08
+slug: pitas-mediterraneas
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+
+- Pan de pita.
+- Tomate.
+- Aguacate.
+- Mezcla de lechugas.
+- Cebollino[^fn1].
+- Maiíz.
+- Aceite de oliva y sal.
+
+Humedecer las pitas y calentarlas en el tostador. 
+
+Trocear todos los ingredientes, preparando una ensalada bien picada y mezclada. Aliñar.
+
+Abrir las pitas por un extremo, con cuidado que al abrirlas suelta vapor caliente y quema un montón.
+
+Rellenar la pita con la ensalada y a comerrrrrrr!!!
+
+Es refrescante, ligero y sanísimo. Facil y rápido de preparar. Solo hace falta que la materia prima sea buena.
+
+Apto para dietas disociadas.
+
+[^fn1]: El cebollino se puede sustituir por cebolleta fresca, pero el cebollino es más suave y no deja aliento pestoso.
+
+![{{ page.title }}](/images/posts/pitas-mediterraneas.jpg "{{ page.title }}"){: .markdown-image}

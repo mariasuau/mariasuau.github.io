@@ -1,0 +1,73 @@
+---
+title: Tarta de trufa al caramelo
+tags: tarta, chocolate, dulce, postre
+date: 2010-03-30
+slug: tarta-de-trufa-al-caramelo
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+
+**Tarta de trufa al caramelo**
+
+- 1 unidad = vaso de yogur.
+- 4 huevos.
+- 3 unidades de azúcar.
+- 1 unidad y 1/2 de leche.
+- 4 unidades de harina.
+- 1 unidad y 1/2 de cacao puro en polvo.
+- Un sobre levadura.
+- 1/2 unidad de aceite de oliva
+- Molde redondo de 23-25 cm.
+- Mantequilla para untar el molde.
+- Precalentar el horno a 200º.
+
+Batimos con la batidora de aspas los huevos enteros con el azúcar hasta que la mezcla quede de color amarillo claro y aumente un poco el volumen.
+
+Añadimos la leche y batimos.
+
+Ponemos la harina, el cacao y la levadura en un colador fino y vamos tamizando sobre la mezcla anterior y batimos[^fn1].
+
+Añadir por último el aceite de oliva y batir de nuevo.
+
+La mezcla debe quedar sin grumos y homogénea.
+
+[^fn1]: También se pueden mezclar todos los ingredientes de una vez, en el orden indicado y batir con la minipimer. Es más rápido.
+
+Untar el molde de mantequilla y espolvorearle harina para que no se pegue, otra opción es forrar el fondo con papel vegetal parafinado especial para horno y untar solo las paredes con la mantequilla y la harina, se despega mejor de la base.
+
+Verter la masa en el molde y hornear a 200º unos 15 min o hasta que le masa comience a subir, entonces bajar la temperatura a 130º. Hornear unos 40 minutos más o hasta que al pinchar el bizcocho el pincho salga limpio (yo uso un pincho de barbacoa).
+
+Sacar del horno y dejar enfriar antes de desmoldar.
+
+**Trufa para la cobertura y trufa al caramelo para el relleno**
+
+- 250 ml nata para montar.
+- 250 gr chocolate negro para fundir.
+- 65 gr mantequilla.
+
+Se derrite el chocolate con la nata y la mantequilla en un recipiente al vapor, que es como el baño maría pero sin que el recipiente se sumerja en el agua. Remover continuamente hasta que todo quede bien derretido y bien mezclado sin grumos.
+
+Ahora cogemos la mitad de la trufa y la reservamos para la cobertura y a la otra mitad le mezclamos caramelo para el relleno.
+
+**Caramelo**
+
+Una taza de azúcar moreno y un chorro de agua, se pone en una sartén y se reduce a fuego moderado hasta que quede un liquido dorado de consistencia menos líquida que el agua pero no muy espeso que burbujea dorado. También se puede comprar caramelo hecho.
+
+Añadiremos el caramelo a la trufa.
+
+**Montaje**
+
+Con el bizcocho frío lo cortamos por la mitad, la parte superior la volteamos con cuidado y con un cuchillo ahuecamos un poco el centro para que quepa más trufa.
+
+Untamos la trufa con el caramelo sobre la mitad inferior del bizcocho, tapamos con la parte superior del bizcocho.
+
+Cubrimos todo con el resto de la trufa sin caramelo.
+
+Dejamos enfriar en la nevera.
+
+Deliciosamente pecaminoso.
+![{{ page.title }}](/images/posts/tarta-de-trufa-al-caramelo.jpg "{{ page.title }}"){: .markdown-image}

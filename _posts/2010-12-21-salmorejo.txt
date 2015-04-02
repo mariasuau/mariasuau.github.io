@@ -1,0 +1,35 @@
+---
+title: Salmorejo
+tags: salmorejo, verduras, sano
+date: 2010-12-11
+slug: salmorejo
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+
+- 1 kg de tomates bien maduros.
+- 1 diente de ajo.
+- Pan del día anterior (una rebanada mínimo).
+A- ceite, sal y vinagre.
+
+
+Pelamos los tomates y los troceamos. El ajo lo pelamos y si no queremos que se nos repita demasiado le quitamos el germen interior. 
+
+El pan cuanto más metido en harina sea mejor, es decir cuanto más cateto mejor.
+
+Ponemos todos los ingredientes en la batidora con un buen chorro de aceite de oliva, más o menos 20-30 ml, un buen pellizco de sal y un chorro de vinagre. Batimos hasta que quede fino. Primero ponemos una rebanada de pan troceada, pero iremos añadiendo hasta conseguir una consistencia tirando a espesa.
+
+Consejos, poner el tomate al fondo de la batidora para que las aspas lo pillen bien y no cargar mucho el vaso por lo mismo.
+
+Servir acompañado de huevo duro picado, atún o jamón serrano picadito.
+
+Delicioso siempre que haya un buen tomate, no lo recomiendo con tomate de lata, no es lo mismo.
+
+Riquísimo para untarlo en pan o para tomarlo a cucharadas. También para aperitivos en vasitos mini o en tartaletas con huevo de codorniz. Da mucho juego y siempre triunfa.
+
+Gracias a mi suegra por enseñarme a prepararlo, aunque ya no recuerdo si la receta era así exactamente, así es como la hago desde hace tiempo.
+
+![{{ page.title }}](/images/posts/salmorejo.jpg "{{ page.title }}"){: .markdown-image}

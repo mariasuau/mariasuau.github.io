@@ -1,0 +1,27 @@
+---
+title: Schnitzel con mostaza
+tags: carne
+date: 2013-07-30
+slug: schnitzel-con-mostaza
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+- dos filetes de cerdo por persona (finito y grande. Mejor pedir al carnicero que lo deje para hacer "libritos", es decir dos filetes unidos por un extremo.
+- mostaza de Dijon
+- 2 ó 3 pepinillos por persona
+- huevos y pan rayado para el rebozado
+- aceite de oliva para freir
+
+Coger los filetes de cerdo y aplanarlos un poco con un rodillo de cocina.
+Por una cara de uno de los filetes huntar mostaza y poner los pepinillos cortados en rodajas.
+Colocar el 2º filete sobre el anterior a modo de bocadillo.
+Mojar en huevo, dejar escurrir el exceso y rebozar en abundante pan rayado.
+Freir en aceite de oliva que debe estar muy caliente, hasta que quede bien dorado.
+
+La primera vez que lo probé fue en Munich. Con una buena cerveza, un gran descubrimiento.
+
+
+![{{ page.title }}](/images/posts/schnitzel-con-mostaza.jpg "{{ page.title }}"){: .markdown-image}

@@ -1,0 +1,23 @@
+---
+title: Hamburguesa parmesana
+tags: hamburguesa, pan
+date: 2010-04-10
+slug: hamburguesa-parmesana
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- Una hamburguesa de la carnicería.
+- Lechuga, brotes tiernos.
+- Tomate raf.
+- Unas láminas de queso parmesano.
+- Pan, un bollito que se adapte a la hamburguesa.
+
+Hacer la hamburguesa a la plancha, cortar el tomate en láminas finas y aliar el tomate y la lechuga. Montar sobre el pan una capa de tomate, lechuga, hamburguesa y queso. 
+
+Si se quiere light preparar la hamburguesa sin pan y con un poco queso en virutas.
+
+![{{ page.title }}](/images/posts/hamburguesa-parmesana.jpg "{{ page.title }}"){: .markdown-image}

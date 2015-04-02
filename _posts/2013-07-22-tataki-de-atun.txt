@@ -1,0 +1,29 @@
+---
+title: Tataki de atún
+tags: pescado
+date: 2013-07-22
+slug: tataki-de-atun
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+Ingredientes:
+
+- un solomillo de atún
+- semillas de comino (ajónjoli)
+- semillas de amapola (opcional)
+- salsa teriyaki
+- aceite de oliva
+
+Si el solomillo de atún es grande lo cortaremos por la mitad a lo largo y obtendremos dos tatakis.
+Lavamos el atún y secamos un poco. Recubrimos con ajónjoli y semillas de amapola como si fuera pan rayado.
+Ponemos un plancha con un poco de aceite y cuando esté bien caliente sellamos el atún por todas sus caras. Debe quedar crudo por el centro.
+Ahora lo dejamos marinar en salsa teriyaki. El tiempo puede ser desde media hora (lo que tardamos en preparar el acompañamiento y poner la mesa) a 24 horas.
+Cortamos y servimos como se muestra en la fotografía.
+
+Queda espectacular. No tengáis miedo a comer pescado crudo, es delicioso.
+
+![{{ page.title }}](/images/posts/tataki-atun.jpg "{{ page.title }}"){: .markdown-image}

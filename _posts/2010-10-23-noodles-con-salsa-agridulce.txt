@@ -1,0 +1,30 @@
+---
+title: Noodles con salsa agridulce
+tags: pasta, china
+date: 2010-10-23
+slug: noodles-con-salsa-agridulce
+author: María Suau
+layout: post
+location: Málaga, España
+type: oriental
+---
+
+
+- Un paquete de noodles.
+- Una pechuga de pavo.
+- Un manojo de espárragos.
+- Un puerro.
+- Unas ramitas de brocoli.
+- Aceite de oliva.
+- Sal.
+- Salsa agridulce.
+
+En una sartén salteamos los esparragos, el brocoli y el puerro, troceados, hasta que estén blandos pero no demasiado. Añadimos la carne troceada y con sal. Seguimos salteando. 
+
+Cocer la pasta según las instrucciones del fabricante. 
+
+Mezclar la pasta a la verdura con la carne. Añadir salsa agridulce y saltear un minuto en la misma sartén sin parar de remover.
+
+Servir en cuenco con palillos. Y a comel.
+
+![{{ page.title }}](/images/posts/noodles.jpg "{{ page.title }}"){: .markdown-image}

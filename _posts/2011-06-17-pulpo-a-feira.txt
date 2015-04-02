@@ -1,0 +1,44 @@
+---
+title: Pulpo a feira
+tags: pulpo, gallega
+date: 2011-06-17
+slug: pulpo-a-feira
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+- Un pulpo de 1’5 kg (máximo 2 kg).
+- Una cebolla.
+- Una hoja de laurel.
+- Sal gruesa.
+- Pimentón dulce y picante.
+- Aceite de oliva.
+- Pan para mojar.
+
+
+Primero compramos un pulpo de esos que tiene la piel de color dorado, no de los grises. Que pese un kg y medio más o menos.
+
+Congelamos el pulpo, esto es fundamental para que quede tierno, si se prefiere fresco hay que darle una buena paliza para que la carne ablande, esto es engorroso y poco recomendable hacerlo en casa.
+
+Tras 24 h congelado ya podemos consumirlo.
+
+Se descongela el pulpo a temperatura ambiente (nunca en el microondas).
+
+Ponemos a hervir en una olla grande agua suficiente para cubrir el pulpo, la cebolla entera y el laurel.
+
+Una vez hierva metemos el pulpo, bajamos el fuego a fuego medio-bajo y lo dejamos tapado 30 minutos. Pasado este tiempo apagamos el fuego y dejamos el pulpo en la olla tal cual reposar otros 30 minutos.
+
+Ahora si tenemos plato de madera recomiendo mojarlo en el agua del pulpo para que mantenga mejor la temperatura y lo ponemos sobre otro plato normal para no manchar.
+
+Cortamos las patas del pulpo en trocitos, las colocamos en el plato y añadimos sal gorda, pimentón dulce y picante al gusto y un generoso chorro de un buen aceite de oliva. La cabeza no nos la comemos pero si os gusta, adelante, hay restaurantes que la ponen.
+
+A comer todos rápido que se enfría el pulpo!!!!!
+
+Acompañar de un buen pan para mojar el aceitito, esto es una autentica delicia y un pecado no rebañar el plato.
+
+Esta receta la aprendí del mejor cocinero de pulpo a feira que he conocido, **mi padre**.
+
+![{{ page.title }}](/images/posts/pulpo-a-feira.jpg "{{ page.title }}"){: .markdown-image}

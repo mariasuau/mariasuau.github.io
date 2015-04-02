@@ -1,0 +1,44 @@
+---
+title: Tiramisú de moka
+tags: pastel, tiramisú, dulce, postre
+date: 2010-03-20
+slug: tiramisu-de-moka
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+- 250 gr de queso mascarpone.
+- 4 huevos.
+- 5 cucharadas soperas de azúcar + 3 cucharadas de postre.
+- un café espresso.
+- 4 cucharadas soperas de cacao puro en polvo.
+- 250 gr de Soletillas, bizcochitos, melindros o similares.
+
+
+Separar las yemas de las claras.
+
+Batir las yemas con el azúcar hasta que la mezcla quede de un color amarillo pálido, aumente su volumen y tenga un aspecto homogéneo y algo espumoso. Lo ideal es usar una batidora de aspas.
+
+Añadir ahora el queso mascarpone y seguir batiendo.
+
+Por otro lado montar las claras a punto de nieve con una batidora de aspas (truco: añadiendo una pizquita de sal se montan mejor).
+
+Ahora con una espátula y haciendo movimientos envolventes añadimos poco a poco a la mezcla del queso mascarpone las claras a punto de nieve. Mezclamos hasta que quede una mezcla homogénea con cuidado de no batir demasiado porque las claras se bajan.
+
+Por otra parte preparamos una fuente honda donde vamos a presentar el tiramisú.
+
+Preparamos un café espresso (puede ser de sobre con leche o de máquina) y añadimos una o dos cucharadas de cacao en polvo y azúcar al gusto para endulzar (unas dos o tres cucharadas de postre).
+
+En un plato hondo ponemos el café y vamos mojando las soletillas una a una pero rápidamente, no deben quedar empapadas porque rezumaría café formando un charco alrededor del queso que no queda muy presentable.
+
+Montamos una capa de soletillas y otra con la crema de mascarpone alternativamente y por último espolvoreamos con ayuda de un colador fino cacao puro por encima.
+
+A la nevera, por lo menos un par de horas para que esté fresquito.
+
+Disfrutar en la mejor compañía posible.
+
+![{{ page.title }}](/images/posts/tiramisu-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/tiramisu-2.jpg "{{ page.title }}"){: .markdown-image}

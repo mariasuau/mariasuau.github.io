@@ -1,0 +1,37 @@
+---
+title: Dorada al limón dulce
+tags: dorada,limón, pescado
+date: 2012-04-22
+slug: dorada-al-limon-dulce
+author: María Suau
+layout: post
+location: Málaga, España
+type: pescado
+---
+
+
+- Una dorada por persona.
+- Una raíz de hinojo grande.
+- 1/2 limón por cada dorada.
+- Aceite de oliva.
+- Sal.
+- Pimentón dulce.
+- Azúcar (una cucharada por cada medio limón).
+
+Pedimos en la pescadería que nos limpien las doradas para hacerlas a la espalda, abiertas por la mitad a modo de libro, descamadas y sin aletas. Se pueden preparar enteras pero se hacen más rápido si estan ya abiertas.
+
+En una fuente de horno grande ponemos un chorrito de aceite de oliva para que no se pegue el pescado. Colocamos las doradas encima, ponemos sal y pimentón al gusto.
+
+Limpiamos el hinojo y lo cortamos en láminas y las colocamos alrededor de las doradas.
+
+cortamos los dos extremos de los limones y después por la mitad. Colocamos las mitades de los limones en huecos entre las doradas y añadimos una cucharada de azucar sobre cada mitad.
+
+Ahora un buen chorro de aceite de oliva por encima del pescado y el hinojo y al horno.
+a 250º unos 25 minutos (el tiempo va a depender del tamaño del pescado así que recomiento vigilarlo cada 10 minutos  y cuando veamos que la carne del pescado está bien blanca, el limón muy blandito y el hinojo churruscandose por los bordes, ya lo tenemos listo).
+
+Servimos una dorada por persona con unas láminas de hinojo y medio limón, que estrujaremos con un tenedor para que suelte ese jugo dulce que le da ese toque especial al plato.
+
+Maravilloso, muy diferente, rápido y sencillísimo de hacer.
+En la foto sale acompañado de patatas y de remolacha, que venían en la receta original. Pero las patatas me quedaron duras porque tienen tiempos de coccion diferentes al pescado (mejor prepararlas por separado) y la remolacha fue un desastre así que he simplificado la receta y para mi gusto queda mejor.
+
+![{{ page.title }}](/images/posts/dorada-al-limon-con-hinojo.jpg "{{ page.title }}"){: .markdown-image}

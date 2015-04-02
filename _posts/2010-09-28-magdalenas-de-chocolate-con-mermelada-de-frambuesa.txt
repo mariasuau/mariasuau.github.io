@@ -1,0 +1,36 @@
+---
+title: Magdalenas de chocolate con mermelada de frambuesa
+tags: magdalenas, chocolate, dulce
+date: 2010-09-28
+slug: magdalenas-de-chocolate-con-mermelada-de-frambuesa
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+- 110 gr Harina de trigo.
+- 50 gr chocolate negro.
+- 90 gr mantequilla.
+- 25 gr cacao en polvo (el mejor es el cacao puro valor que lo venden en carrefour).
+- 3 huevos grandes.
+- 110 gr azúcar glas.
+- 1 cucharada de miel.
+- Una cucharada de levadura en polvo.
+- Mermelada de frambuesa.
+- Moldes de papel para magdalenas
+
+Primero encendemos el horno y precalentamos a 200º. Sacar la bandeja para que no se caliente.
+
+Fundimos el chocolate con la mantequilla a fuego muy suave (nº3 vitro) removiendo continuamente para que no se pegue y quede fundido sin grumos.
+
+En un bol batimos los huevos con la miel y el azúcar glas. Ahora añadimos el chocolate fundido y seguimos batiendo. En un colador fino ponemos la harina, la levadura y el cacao en polvo y vamos tamizando sobre la mezcla anterior y vamos batiendo para que se mezcle bien sin formar grumos.
+
+Cuando tengamos la mezcla bien homogénea la distribuimos en los moldes, con ayuda de una cuchara, llenándolos no más de 2/3 del volumen del molde.En una bolsita metemos unas cuantas cucharadas de mermelada de frambuesa, cortamos la puntita de la bolsa de unos 2-3 mm, y ya tenemos una manga pastelera improvisada. Ahora hundimos la punta de la manga dentro del la masa de cada magdalena y apretamos soltando un chorro de mermelada dentro de la masa. Al sacar la bolsa quedará un orificio lleno de mermelada.
+
+Colocamos todos los moldes en una bandeja de horno (por eso no queremos que se caliente, para no quemarnos colocando los moldes). Horneamos 15 -17 minutos bajando la temperatura a 180º.
+
+Sacamos y dejamos enfriar. La mermelada hierve y deja un agujero dentro de la magdalena, es normal y queda riquísimo porque se impregna del sabor de la mermelada sin encontrar un gran pegote de la misma.Que las disfrutéis.
+
+![{{ page.title }}](/images/posts/magdalena-de-chocolate-y-frambuesa.jpg "{{ page.title }}"){: .markdown-image}

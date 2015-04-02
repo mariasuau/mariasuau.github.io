@@ -1,0 +1,43 @@
+---
+title: Garbanzos al curry
+tags: verduras, garbanzos, curry
+date: 2014-01-20
+slug: garbanzos-al-curry
+author: María Suau
+layout: post
+location: Málaga, España
+type: vegetal
+---
+
+- Un bote grande de garbanzos cocidos.
+- Un pimiento rojo pequeño.
+- Una cebolla mediana.
+- Una zanahoria grande.
+- Dos tomates maduros pequeños.
+- Una cucharada sopera de curry.
+- Una cucharada sopera de pimentón dulce (o mezcla con picante, al gusto).
+- Unos 300 cc de agua o caldo.
+- Sal y aceite de oliva.
+
+Versión Thermomix (TMX):
+ 
+Pelamos, lavamos y cortamos en trozos grandes la cebolla, zanahoria y el pimiento (quitamos las pipas). Lo metemos en la TMX y troceamos 5 seg v4.
+Añadimos un buen chorro de aceite de oliva a ojo o unos 25 gr. 10 min, temp Varoma, v1.
+Añadimos el tomate pelado. Troceamos 5 seg v4.
+Sofreimos 5 min, temp Varoma, v1.
+Trituramos 15 seg,v5-10.
+Poner la mariposa.
+Añadimos ahora el agua o caldo, los garbanzos (previamente escurridos y aclarados con agua), sal, curry y pimentón al gusto y programamos 15 min, giro izquierda, temp Varoma, v cuchara.
+Cuando esté listo lo pasamos a una fuente, y vamos a espesar un poco el caldo cogiendo un cucharón del guiso con un buen cucharón de garbanzos, lo metemos en la TMX y trituramos 10 seg, v10. Lo incorporamos de nuevo a la fuente y mezclamos bien. Listo.
+
+Versión tradicional:
+
+Pelamos, lavamos y cortamos en trozos pequeños la cebolla, zanahoria y el pimiento (quitamos las pipas). Sofreimos con aceite de oliva en una olla.
+Ahora pelamos los tomates y los cortamos pequeño. Añadimos al sofrito y sofreimos de nuevo unos minutos.
+Ahora trituramos las verduras y añadimos el agua o el caldo, los garbanzos, la sal y las especias. Dejamos que haga un buen chup-chup 15-20 min.
+Ahora podemos espesar un poco triturando un cucharon del guiso anterior y añadiéndolo de nuevo y mezclando. Listo.
+
+Lo probé en un restaurante de Málaga y estaba buenísimo. Esta receta está deducida de aquella y ha quedado bastante parecida. Riquísima.
+
+
+![{{ page.title }}](/images/posts/garbanzos-al-curry.jpg "{{ page.title }}"){: .markdown-image}

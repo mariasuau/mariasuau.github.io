@@ -1,0 +1,28 @@
+---
+title: Gominolas sin azúcar
+tags: sano, dieta, postre, dulce, gominola
+date: 2014-07-09
+slug: gominolas-sin-azúcar
+author: María Suau
+layout: post
+location: Málaga, España
+type: postre
+---
+
+
+- 3 sobres de gelatina neutra en polvo
+- 300 gr de frambuesas frescas
+- Agua
+- 1 y 1/2 cucharadas soperas de stevia en polvo
+- Un chorrito de limón
+
+Ponemos la gelatina con un chorrito de agua fría para que se hidrate.
+Pasamos las frambuesas por la licuadora, y al zumo resultante añadimos agua hasta completar 200 ml.
+Calentamos a fuego suave el zumo con el agua pero que no hierva. Añadimos el edulcorante y la gelatina y la disolvemos bien con cuidado de que no hierva.
+Ahora ponemos un molde cuadrado (un tuper mismamente) o usamos bomboneras, lo cubrimos con un poco de aceite de girasol para que no se pegue y ponemos la gelatina. Dejamos enfriar en la nevera hasta que cuaje bien, mínimo una hora.
+Ahora desmoldamos y cortamos en daditos. 
+Se pueden espolvorear con azúcar (siempre será menos que usar azúcar en la gominola) o con el edulcorante (no lo recomiendo). Pero yo no he puesto nada y quedan genial aunque se pegan un poco entre ellas.
+
+Curiosamente muchas recetas de gominolas sin azúcar usan gelatina de sabores que tiene tela de azúcar. Así que he preferido zumo y gelatina neutra.
+
+![{{ page.title }}](/images/posts/gominolas.jpg "{{ page.title }}"){: .markdown-image}

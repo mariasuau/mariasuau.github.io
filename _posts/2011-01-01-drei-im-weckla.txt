@@ -1,0 +1,25 @@
+---
+title: Drei im Weckla
+tags: pan, salchichas, alemana
+date: 2011-01-01
+slug: drei-im-weckla
+author: María Suau
+layout: post
+location: Málaga, España
+type: aperitivo
+---
+
+
+- 3 salchichas de Nürnberg (rostbratwurst).
+- Un panecillo.
+- Mostaza.
+
+Lo mejor para preparar este suculento bocadillito es ir a Nürnberg, preferiblemente en época de Adviento, cuando está montado el mercadillo navideño y hay montones de puestos donde los preparan. Eso sí, id bien abrigados porque hará fresquito. 
+
+Si los queréis preparar aquí, solo hay que encontrar una carnicería que tenga estas salchichas, calentarlas en el horno o sartén si ya están hechas (las venden crudas o ya cocinadas a la brasa) o hacerlas a la plancha. Meterlas en un panecillo y añadir mostaza medio-picante.
+
+Lo del viaje lo recomiendo a todo el mundo, que ciudad tan bonita y llena de espíritu navideño.
+
+Feliz Navidad a todo el mundo.
+
+![{{ page.title }}](/images/posts/drei-im-weckla.jpg "{{ page.title }}"){: .markdown-image}

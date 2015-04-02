@@ -1,0 +1,38 @@
+---
+title: Frikadellen o hamburbóndigas
+tags: frikadellen, carne, hamburguesa, alemana
+date: 2011-02-23
+slug: frikadellen-hamburbondigas
+author: María Suau
+layout: post
+location: Málaga, España
+type: carne
+---
+
+
+- 1/2 kg de carne picada de ternera.
+- 1/2 kg de carne picada de cerdo.
+- Un huevo.
+- Un bollo de pan blanco del día anterior (más miga que corteza).
+- Un chorro de leche.
+- Una cucharada sopera de mostaza.
+- Dos cebollas medianas.
+- Dos dientes de ajo.
+- Una cucharadita de perejil picado.
+- Sal y pimienta.
+- Pan rallado para rebozar.
+- Aceite de oliva.
+
+
+Ponemos en un cuenco el pan troceado pequeño con un buen chorro de leche para que quede completamente empapado y blando. Lo machacamos todo lo fino posible con un tenedor.
+
+Cortamos la cebolla en juliana fina y la doramos con un poco de aceite de oliva y sal en una sartén. Cuando esté tierna mezclaremos todos los ingredientes en un cuenco grande: carne, cebolla, ajo machacado, mostaza, perejil, el huevo y el pan empapado en leche (si sobra leche escurrimos un poco el pan). Mezclar con las manos hasta que todo quede bien ligado. Si notamos que la mezcla queda seca añadiremos otro huevo.
+
+Formar bolas con la mano y aplastarlas un poco dando forma de hamburguesa. Rebozar en pan rallado.
+
+Freír hasta dorar y luego escurrimos el aceite y las metemos en el horno para que se acaben de hacer a 250º unos 20 min.
+
+Ya se que la foto es un poco sosa, ahí está la hamburbóndiga (hamburguesa+albóndiga) solita en el plato, quedaría mejor con patatillas o con una cama de hojas verdes. Otro día haré una foto más artística y la cambiaré, pero mientras tanto esto es lo que hay. Lecker und köstlich! Ich garantiere es euch! Rico y delicioso! Os lo garantizo!
+
+![{{ page.title }}](/images/posts/frikadellen-1.jpg "{{ page.title }}"){: .markdown-image}
+![{{ page.title }}](/images/posts/frikadellen-2.jpg "{{ page.title }}"){: .markdown-image}
