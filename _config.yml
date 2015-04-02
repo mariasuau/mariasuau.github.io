@@ -1,6 +1,6 @@
 markdown: kramdown
-pygments: true
-url: http://pantumaca.com
+highlighter: pygments
+url: http://www.pantumaca.com
 title: Pantumaca
 description: "Family doctor, inspired chef, Deutschschülerin and proud mom."
 production_url: http://pantumaca.com
